@@ -6,12 +6,14 @@
 
 
 ![earthcam](https://static.earthcam.com/images/holiday_logos/com_logo.svg)
-[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles) [EarthCam.cOM](https://www.earthcam.com/)
+[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles) [EarthCam.cOM](https://www.earthcam.com/) [skycam](https://www.skylinewebcams.com/en/webcam/united-states/california/los-angeles.html)
 
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
 <iframe width="912" height="513" src="https://www.youtube.com/embed/H999s0P1Er0" title="Live High-Definition Views from the International Space Station (Official NASA Stream)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+[Live webcams from around SoCal](https://www.foxla.com/live-webcams-southern-california)
 ![abc7](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg)
 <object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
 
