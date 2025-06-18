@@ -1,3 +1,6 @@
+[Space Coast Live: 24/7 Views of @NASA, @r-SpaceX Falcon 9 Operations, and Starship Pad Construction](https://www.youtube.com/live/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [STU IN SKYFOX AERIALS, NEWS and WEBCAMS around the WORLD  June 17](https://www.youtube.com/watch?v=_qsb4q3I4jI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
