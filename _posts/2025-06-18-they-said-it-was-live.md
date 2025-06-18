@@ -21,6 +21,9 @@
 _24/7 Coverage of Breaking News and Live Events._
 <object width="640" height="360" data="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></object>
 
+# hollywoodsign.org/webcam [clickhere](https://www.hollywoodsign.org/webcam)
+![https://www.hollywoodsign.org/webcam](https://github.com/user-attachments/assets/e7b4d13d-8801-41e7-8665-79e6230a8ca4)
+
 [Live: 'No Kings' protesters rally in LA @nasa-jpl @stateofcalifornia @blackgirlscode @whitehouse](https://www.youtube.com/watch?v=iwrsmBvIZCw)
 
 [Skid Row Live Los Angeles CA. Cam 1](https://www.youtube.com/watch?v=g1aO8CQl-Zk)
