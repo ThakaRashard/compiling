@@ -4,6 +4,10 @@
 [STU IN SKYFOX AERIALS, NEWS and WEBCAMS around the WORLD  June 17](https://www.youtube.com/watch?v=_qsb4q3I4jI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/)
+
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
 <iframe width="912" height="513" src="https://www.youtube.com/embed/H999s0P1Er0" title="Live High-Definition Views from the International Space Station (Official NASA Stream)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -39,3 +43,8 @@ _24/7 Coverage of Breaking News and Live Events._
 
 [LIVE LAX AIRPORT ACTION!  Los Angeles Plane Spotting  JUNE 18, 2025](https://www.youtube.com/watch?v=PdEIdas1eFE)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdEIdas1eFE?si=q11M_47EL7_Z26sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Live Monterey Bay Cam - Monterey Bay Aquarium](https://www.youtube.com/watch?v=fuCeRkeDxtQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuCeRkeDxtQ?si=iAvXOiLPMPGo8OjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @cityoflosangeles @stateofcalifornia this is something that needs warm bodies to organize [LiveCams]()... Inventory can keep [PeepingToms](https://www.robertmhelfend.com/criminal-defense/sex-crimes/peeping-tom/) at bay with its fast acting [VoyurismLaw](https://codes.findlaw.com/ca/penal-code/pen-sect-647/) 
+
+
