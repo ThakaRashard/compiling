@@ -1,3 +1,6 @@
+[STU IN SKYFOX AERIALS, NEWS and WEBCAMS around the WORLD  June 17](https://www.youtube.com/watch?v=_qsb4q3I4jI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
 <iframe width="912" height="513" src="https://www.youtube.com/embed/H999s0P1Er0" title="Live High-Definition Views from the International Space Station (Official NASA Stream)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -5,7 +8,7 @@
 ![abc7](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg)
 <object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
 
-
+[Live: 'No Kings' protesters rally in LA @nasa-jpl @stateofcalifornia @blackgirlscode @whitehouse](https://www.youtube.com/watch?v=iwrsmBvIZCw)
 
 
 [Live Video from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=DIgkvm2nmHc)
