@@ -8,6 +8,10 @@
 ![abc7](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg)
 <object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
 
+![ABC_NEWS](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
+_24/7 Coverage of Breaking News and Live Events._
+<object width="640" height="360" data="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></object>
+
 [Live: 'No Kings' protesters rally in LA @nasa-jpl @stateofcalifornia @blackgirlscode @whitehouse](https://www.youtube.com/watch?v=iwrsmBvIZCw)
 
 [Skid Row Live Los Angeles CA. Cam 1](https://www.youtube.com/watch?v=g1aO8CQl-Zk)
@@ -16,9 +20,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIgkvm2nmHc?si=GFAikF0eD7xYcdtr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <object width="560" height="315" data="https://www.youtube.com/embed/8rKTnxsNGxE?si=XMIf87PuiJct9Ik2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 
-![ABC_NEWS](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
-_24/7 Coverage of Breaking News and Live Events._
-<object width="640" height="360" data="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></object>
+[Hermosa Beach Good Stuff Strand Cam. Live Camera Stream from Southern California](https://www.youtube.com/watch?v=yJgfAV8lXyI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJgfAV8lXyI?si=COUwz49W1OB_O9WG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 [🔴 Los Angeles Live Stream ·Venice Beach Live Camera · Venice V Hotel Live · California Webcam](https://www.youtube.com/watch?v=3LXQWU67Ufk)
