@@ -10,7 +10,8 @@
 
 [Live: 'No Kings' protesters rally in LA @nasa-jpl @stateofcalifornia @blackgirlscode @whitehouse](https://www.youtube.com/watch?v=iwrsmBvIZCw)
 
-
+[Skid Row Live Los Angeles CA. Cam 1](https://www.youtube.com/watch?v=g1aO8CQl-Zk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1aO8CQl-Zk?si=nKhyc79omaSgfQ1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Live Video from the International Space Station (Official NASA Stream)](https://www.youtube.com/watch?v=DIgkvm2nmHc)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIgkvm2nmHc?si=GFAikF0eD7xYcdtr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
