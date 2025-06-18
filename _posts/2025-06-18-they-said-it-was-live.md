@@ -6,7 +6,7 @@
 
 
 
-[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/)
+[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles)
 
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
