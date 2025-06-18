@@ -5,8 +5,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles)
+![earthcam](https://static.earthcam.com/images/holiday_logos/com_logo.svg)
+[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles) [EarthCam.cOM](https://www.earthcam.com/)
 
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
