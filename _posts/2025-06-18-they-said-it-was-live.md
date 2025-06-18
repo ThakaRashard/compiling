@@ -16,7 +16,8 @@ _24/7 Coverage of Breaking News and Live Events._
 <object width="640" height="360" data="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></object>
 
 
-
+[🔴 Los Angeles Live Stream ·Venice Beach Live Camera · Venice V Hotel Live · California Webcam](https://www.youtube.com/watch?v=3LXQWU67Ufk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3LXQWU67Ufk?si=O5zETvncWaW0wORm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [EarthCam Live: Times Square in 4K](https://www.youtube.com/watch?v=rnXIjl_Rzy4)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rnXIjl_Rzy4?si=THpIWmaU6tU72H4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
