@@ -1,3 +1,14 @@
+# Summer Of Resistance : JuneTeenthWeek
+<div class="section_2col ic">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-sor_juneteenth25' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
 [RepKArenTrello:FromRashard @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
 
 # SummerofresistanceDTLA
