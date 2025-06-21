@@ -1,4 +1,4 @@
-@cityoflosangeles 🧊 🧊 🧊 @nasas-jpl @stateofcalifornia
+@cityoflosangeles 🧊 🧊 🧊 @nasa-jpl @stateofcalifornia
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
