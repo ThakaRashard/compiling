@@ -1,3 +1,6 @@
+@cityoflosangeles 🧊 🧊 🧊 @nasas-jpl @stateofcalifornia
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 @whitehouse `HOLLYWOOD: Trump’s unhinged Gestapo` @nasa-jpl @dhs-gov
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">HOLLYWOOD: Trump’s unhinged Gestapo smashes a window then tackles and arrests an American citizen for filming it, saying “I got one” like they’re playing some kind of sick video game. <a href="https://t.co/Xr2CTOUVpv">pic.twitter.com/Xr2CTOUVpv</a></p>&mdash; The Tennessee Holler (@TheTNHoller) <a href="https://twitter.com/TheTNHoller/status/1936399489486745635?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
