@@ -1,5 +1,11 @@
+# LA City Neighborhood Council Budget Day 2025
+@cityoflosangeles @stateofcalifornia @nasa-jpl @whitehouse [Summer Of Resistance Losangeles on ./holetoanotheruniverse/thakarashard/compiling](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USWjjuftwes?si=4GDRPyQ29ESPVxLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Space Coast Live: 24/7 Views of @NASA, @r-SpaceX Falcon 9 Operations, and Starship Pad Construction](https://www.youtube.com/live/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## LIVE 🔴 Mind-Blowing Solar System Exploration | Earth Science
 @bbc @ESA
