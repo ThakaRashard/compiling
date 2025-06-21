@@ -10,6 +10,7 @@
 </div>
 
 [RepKArenTrello:FromRashard @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
+<img src="blob:chrome-untrusted://media-app/8397f686-72f4-4186-a255-8ee0ca189a10" alt="Screenshot 2025-06-21 1.26.08 PM.png"/>![image](https://github.com/user-attachments/assets/8dd45d17-52fd-428c-8d9a-0fc1079cca55)
 
 # SummerofresistanceDTLA
 more coverage on [ricothakarashard.github.io/graffshit](https://thakarashard.github.io/ricothaka/GraffShit)
