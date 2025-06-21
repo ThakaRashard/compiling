@@ -1,3 +1,16 @@
+@cityoflosangeles 🧊 🧊 🧊 @nasa-jpl @stateofcalifornia
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+@whitehouse `HOLLYWOOD: Trump’s unhinged Gestapo` @nasa-jpl @dhs-gov
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">HOLLYWOOD: Trump’s unhinged Gestapo smashes a window then tackles and arrests an American citizen for filming it, saying “I got one” like they’re playing some kind of sick video game. <a href="https://t.co/Xr2CTOUVpv">pic.twitter.com/Xr2CTOUVpv</a></p>&mdash; The Tennessee Holler (@TheTNHoller) <a href="https://twitter.com/TheTNHoller/status/1936399489486745635?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">look through this 10+ minute footage to find more perps if any.<br><br> <a href="https://t.co/fgoHCPSOsO">pic.twitter.com/fgoHCPSOsO</a></p>&mdash; The Daily Sneed™ (@Tr00peRR) <a href="https://twitter.com/Tr00peRR/status/1936504716092956929?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Protesters chant “Free, free Anthony” for photojournalist Anthony Orendorff who is being held at Van Nuys Jail after being arrested by LAPD while filming an ICE operation in Los Angeles. <a href="https://t.co/qTMwfIBD4h">pic.twitter.com/qTMwfIBD4h</a></p>&mdash; Jeremy Lindenfeld (@jeremotographs) <a href="https://twitter.com/jeremotographs/status/1936477379591069934?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>''
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A buddy of mine just found this from last summer—right at start of quarantine before Polaris Dawn. Not the most dramatic flying, but cool views over <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> KSC, VAB &amp; Shuttle Landing Facility. Makes me think of the <a href="https://twitter.com/Axiom_Space?ref_src=twsrc%5Etfw">@Axiom_Space</a> AX-4 crew, waiting a bit longer for their launch. <a href="https://t.co/NcqBZwEMHE">pic.twitter.com/NcqBZwEMHE</a></p>&mdash; Jared Isaacman (@rookisaacman) <a href="https://twitter.com/rookisaacman/status/1936472480815644973?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Summer Of Resistance : JuneTeenthWeek
 <div class="section_2col ic">
 {% for image in site.static_files %}
