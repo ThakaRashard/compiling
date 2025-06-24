@@ -1,4 +1,9 @@
 
+
+
+# Altadena Community Meeting - June 23, 2025
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
 [DroughtMonitor](https://x.com/RicoThaka/status/1884060535731486825) [Current_MAP](https://droughtmonitor.unl.edu/CurrentMap.aspx) [BLOCKERS](https://x.com/RicoThaka/status/1894472734186639522) [feral cows](https://x.com/RicoThaka/status/1886555588576076209)
 
