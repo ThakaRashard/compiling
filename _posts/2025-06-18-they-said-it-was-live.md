@@ -1,29 +1,8 @@
 
-# Axiom-4 Launch LIVE | Astronaut Shubhanshu Shukla LIVE Updates | Axiom 4 Mission | NASA | ISRO
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nKPkEIhjGDM?si=qXtEcmAg8MC0GzTT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Kenya Protests LIVE: 16 Dead As Demonstration Turns Violent After Protesters Clash With Police
+@bbc @nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @atfweb
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxIomWsO_vA?si=FLWX6pF_YSB9z-sK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Axiom-4 Launch LIVE  Astronaut Shubhanshu Shukla LIVE Updates  Axiom 4 Mission  NASA  ISRO](https://www.youtube.com/watch?v=nKPkEIhjGDM) [India Today](https://www.youtube.com/@indiatoday) [WATCH: @NASA Axiom Mission 4 Launch LIVE Countdown and live view form Space Station](https://www.youtube.com/watch?v=U9-wy2SgGf4&ab_channel=MoterWorld) [Moter World](https://www.youtube.com/@moterworld) [IndiaTimes -timesofindia.indiatimes.com/topic/ @NASA](https://timesofindia.indiatimes.com/topic/NASA) [NASA Says Launch Of Shubhanshu Shukla's Axiom Space Mission Likely Tomorrow](https://www.ndtv.com/world-news/nasa-says-launch-of-shubhanshu-shuklas-axiom-space-mission-likely-tomorrrow-8744806)
-
-# LA City Neighborhood Council Budget Day 2025
-@cityoflosangeles @stateofcalifornia @nasa-jpl @whitehouse [Summer Of Resistance Losangeles on ./holetoanotheruniverse/thakarashard/compiling](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/USWjjuftwes?si=4GDRPyQ29ESPVxLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Space Coast Live: 24/7 Views of @NASA, @r-SpaceX Falcon 9 Operations, and Starship Pad Construction](https://www.youtube.com/live/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-## LIVE 🔴 Mind-Blowing Solar System Exploration | Earth Science
-@bbc @ESA
-<object width="560" height="315" data="https://www.youtube.com/embed/LdbozD8XeJ0?si=F-i8nvQHOeIOK3n_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
-
-
-[STU IN SKYFOX AERIALS, NEWS and WEBCAMS around the WORLD  June 17](https://www.youtube.com/watch?v=_qsb4q3I4jI)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-![earthcam](https://static.earthcam.com/images/holiday_logos/com_logo.svg)
-[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles) [EarthCam.cOM](https://www.earthcam.com/) [skycam](https://www.skylinewebcams.com/en/webcam/united-states/california/los-angeles.html)
 
 # _ISS High Definition Live Streaming Video of the Earth (HDEV)_
 [Space Station Research Explorer](https://www.nasa.gov/mission/station/research-explorer/) [Formerly the site for the High Definition Earth-Viewing System (HDEV)  Operational April 30, 2014 – End of Life: August 22, 2019. click for more](https://eol.jsc.nasa.gov/esrs/hdev/)
@@ -38,10 +17,40 @@
 _24/7 Coverage of Breaking News and Live Events._
 <object width="640" height="360" data="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></object>
 
+
+## LIVE 🔴 Mind-Blowing Solar System Exploration | Earth Science
+@bbc @ESA
+<object width="560" height="315" data="https://www.youtube.com/embed/LdbozD8XeJ0?si=F-i8nvQHOeIOK3n_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+
+[STU IN SKYFOX AERIALS, NEWS and WEBCAMS around the WORLD  June 17](https://www.youtube.com/watch?v=_qsb4q3I4jI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qsb4q3I4jI?si=FYrEtAJ4Mlgo7nJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Axiom-4 Launch LIVE | Astronaut Shubhanshu Shukla LIVE Updates | Axiom 4 Mission | NASA | ISRO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKPkEIhjGDM?si=qXtEcmAg8MC0GzTT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Axiom-4 Launch LIVE  Astronaut Shubhanshu Shukla LIVE Updates  Axiom 4 Mission  NASA  ISRO](https://www.youtube.com/watch?v=nKPkEIhjGDM) [India Today](https://www.youtube.com/@indiatoday) [WATCH: @NASA Axiom Mission 4 Launch LIVE Countdown and live view form Space Station](https://www.youtube.com/watch?v=U9-wy2SgGf4&ab_channel=MoterWorld) [Moter World](https://www.youtube.com/@moterworld) [IndiaTimes -timesofindia.indiatimes.com/topic/ @NASA](https://timesofindia.indiatimes.com/topic/NASA) [NASA Says Launch Of Shubhanshu Shukla's Axiom Space Mission Likely Tomorrow](https://www.ndtv.com/world-news/nasa-says-launch-of-shubhanshu-shuklas-axiom-space-mission-likely-tomorrrow-8744806)
+
+# LA City Neighborhood Council Budget Day 2025
+@cityoflosangeles @stateofcalifornia @nasa-jpl @whitehouse [Summer Of Resistance Losangeles on ./holetoanotheruniverse/thakarashard/compiling](https://thakarashard.github.io/compiling/Summer-Of-Resistance-LosAngeles)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USWjjuftwes?si=4GDRPyQ29ESPVxLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Space Coast Live: 24/7 Views of @NASA, @r-SpaceX Falcon 9 Operations, and Starship Pad Construction](https://www.youtube.com/live/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=0cAWmmJBl7fpsZdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+![earthcam](https://static.earthcam.com/images/holiday_logos/com_logo.svg)
+[United States of America Los Angeles County Live cams outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [Webcams - Los Angeles fox10phoenix.com/](https://www.fox10phoenix.com/webcams-los-angeles) [EarthCam.cOM](https://www.earthcam.com/) [skycam](https://www.skylinewebcams.com/en/webcam/united-states/california/los-angeles.html)
+
+
+
 # hollywoodsign.org/webcam [clickhere](https://www.hollywoodsign.org/webcam)
 ![https://www.hollywoodsign.org/webcam](https://github.com/user-attachments/assets/e7b4d13d-8801-41e7-8665-79e6230a8ca4)
 
 [Live: 'No Kings' protesters rally in LA @nasa-jpl @stateofcalifornia @blackgirlscode @whitehouse](https://www.youtube.com/watch?v=iwrsmBvIZCw)
+
+
 
 [Skid Row Live Los Angeles CA. Cam 1](https://www.youtube.com/watch?v=g1aO8CQl-Zk)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1aO8CQl-Zk?si=nKhyc79omaSgfQ1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
