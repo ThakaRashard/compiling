@@ -1,7 +1,9 @@
 
 # Kenya Protests LIVE: 16 Dead As Demonstration Turns Violent After Protesters Clash With Police
 @bbc @nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @atfweb
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kxIomWsO_vA?si=FLWX6pF_YSB9z-sK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @blackgirlscode ? @github check on those ppl who was interviewing [GitHub Africa: Intro to the CHAOSS Project](https://youtu.be/sMSJgeRuyrk) - [GitHub celebrates All in Africa program's first graduates](https://youtu.be/00JJPn0d4h4)
 ![image](https://github.com/user-attachments/assets/7f5d3d11-a684-4bf1-a79d-e56f19b60426) [GitHub Africa Community Powered Open Source](https://youtu.be/bdVCL69UkWs) [GitHub Africa Maintainers](https://youtu.be/2DsAPt75OQc) @ajc
 
