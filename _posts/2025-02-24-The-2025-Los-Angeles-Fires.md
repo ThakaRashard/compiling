@@ -1,11 +1,14 @@
 
+# Altadena Community Meeting - June 23, 2025
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@datadesk do you work for @nooa or @nasa @nasa-jpl @whitehouse or are you [repackaging](https://www.nasa.gov/nasa-brand-center/brand-guidelines/) the [data](https://www.cia.gov/readingroom/home) im not meddling, i just dont want to talk to strangers irl... -[rashard](https://rashardmro.github.io/mybinder/)
 [datadesk/nasa-wildfires - https://palewi.re/docs/nasa-wildfires/](https://palewi.re/docs/nasa-wildfires/) Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS) [@noaa -wildfires](https://github.com/datadesk/noaa-wildfires) [https://github.com/`your_account_name/yourfork.git ](https://github.com/moonlover404/nasa-wildfires.git) + 
 = [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) <~ your files inside! Thats [MyBinder](https://rashardmro.github.io/mybinder/) [https://mybinder.org/](https://mybinder.org/)
 ![image](https://github.com/user-attachments/assets/e5e20877-7f94-443e-b786-6856ae75c4d4)
 ![MyBinder](https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b)
 
-# Altadena Community Meeting - June 23, 2025
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # Live Cams : CAlifornia
 [Moving Mountains Livestream](https://www.metabolicstudio.org/live-streaming)
