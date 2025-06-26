@@ -1,8 +1,19 @@
 
-
+[datadesk/nasa-wildfires - https://palewi.re/docs/nasa-wildfires/](https://palewi.re/docs/nasa-wildfires/) Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS) [@noaa -wildfires](https://github.com/datadesk/noaa-wildfires) [https://github.com/`your_account_name/yourfork.git ](https://github.com/moonlover404/nasa-wildfires.git) + 
+= [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) <~ your files inside! Thats [MyBinder](https://rashardmro.github.io/mybinder/) [https://mybinder.org/](https://mybinder.org/)
+![image](https://github.com/user-attachments/assets/e5e20877-7f94-443e-b786-6856ae75c4d4)
+![MyBinder](https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b)
 
 # Altadena Community Meeting - June 23, 2025
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2f8nb_J5w?si=8cgfiFw40ZIstVzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Live Cams : CAlifornia
+[Moving Mountains Livestream](https://www.metabolicstudio.org/live-streaming)
+[🔴 Venice V Hotel Live · Beach Live Camera · Los Angeles Live Stream](https://www.youtube.com/watch?v=3LXQWU67Ufk)
+[Webcams - Los Angeles @foxbrodcasting](https://www.fox10phoenix.com/webcams-los-angeles) @usgs @nasa @nasa-jpl 
+[Webcams in LOs ANgeles - https://www.outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [LOS_ANGELES - EarthCam.COM](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4) [MArs Perception](https://x.com/RicoThaka/status/1886911203743842619)
+
+<iframe src="https://archive.org/embed/136339277" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
 [DroughtMonitor](https://x.com/RicoThaka/status/1884060535731486825) [Current_MAP](https://droughtmonitor.unl.edu/CurrentMap.aspx) [BLOCKERS](https://x.com/RicoThaka/status/1894472734186639522) [feral cows](https://x.com/RicoThaka/status/1886555588576076209)
@@ -27,17 +38,13 @@
 [Kenneth Fire](https://x.com/thakasartu/status/1878981359525650928)
 
 # NEws for the MAyoR 
-[PIA11243: NASA's AVIRIS Instrument Sheds New Light on Southern California Wildfires](https://x.com/RicoThaka/status/1901712206443737569) [EMit DATACUBE SAMPLE](https://x.com/RicoThaka/status/1901710981929255183) [LA_PERCEPTiON](https://x.com/RicoThaka/status/1901706756587470848) [To MALE JOURNALiST TALKiNG TO Ms_BASS](https://x.com/RicoThaka/status/1901704230639214839) [Mayor_Gossip](https://x.com/RicoThaka/status/1901703421167800712) [Reddit Post NEEDS PARSing @cityoflosangeles @nasa-jpl](https://x.com/RicoThaka/status/1901702469522174261) [![Twitter Follow](https://img.shields.io/badge/Social-RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/RepKamlagerDove) [MayorTweetReddit](https://x.com/RicoThaka/status/1901701917367251296)
+[PIA11243: NASA's AVIRIS Instrument Sheds New Light on Southern California Wildfires](https://x.com//status/1901712206443737569) [EMit DATACUBE SAMPLE](https://x.com//status/1901710981929255183) [LA_PERCEPTiON](https://x.com//status/1901706756587470848) [To MALE JOURNALiST TALKiNG TO Ms_BASS](https://x.com//status/1901704230639214839) [Mayor_Gossip](https://x.com//status/1901703421167800712) [Reddit Post NEEDS PARSing @cityoflosangeles @nasa-jpl](https://x.com//status/1901702469522174261) [![Twitter Follow](https://img.shields.io/badge/Social-RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/RepKamlagerDove) [MayorTweetReddit](https://x.com//status/1901701917367251296)
 
 ![AViRis](https://photojournal.jpl.nasa.gov/jpegMod/PIA11243_modest.jpg)
 
 [Bass fires the L.A. fire chief, but her own smoldering political crisis is far from over @datadesk](https://www.latimes.com/california/story/2025-02-21/bass-fires-the-l-a-fure-chief-but-her-own-smoldering-political-crisis-is-far-from-over) [LA Mayor Karen Bass facing recall effort over handling of Palisades Fire](https://abc7.com/post/los-angeles-mayor-karen-bass-facing-recall-effort-handling-palisades-fire/16011643/)
 
-# Live Cams : CAlifornia
-[Moving Mountains Livestream](https://www.metabolicstudio.org/live-streaming)
-[🔴 Venice V Hotel Live · Beach Live Camera · Los Angeles Live Stream](https://www.youtube.com/watch?v=3LXQWU67Ufk)
-[Webcams - Los Angeles @foxbrodcasting](https://www.fox10phoenix.com/webcams-los-angeles) @usgs @nasa @nasa-jpl 
-[Webcams in LOs ANgeles - https://www.outdooractive.com/](https://www.outdooractive.com/en/webcams/los-angeles/webcams-in-los-angeles/227987193/) [LOS_ANGELES - EarthCam.COM](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4) [MArs Perception](https://x.com/RicoThaka/status/1886911203743842619)
+
 
 ![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
 California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
