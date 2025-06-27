@@ -1,3 +1,21 @@
+[🔴LIVE NEWS and WEBCAMS around the WORLD : June 25](https://www.youtube.com/live/AXV0WkYNJMQ?si=U2Zm2pETzqL1TcRT)
+[NewsStand on /rashardmro](https://rashardmro.github.io/2025/06/13/newsstand.html)
+<object width="560" height="315" data="https://www.youtube.com/embed/AXV0WkYNJMQ?si=5tlxQtwdBqr7R9It" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+
+# ABC7 Sync
+[#6/26/2025%> ./HoleToAnotherUniverse/how_to_embed_live_Video.sh](https://codepen.io/thakarashard/pen/EajrepQ)
+[NewsPaperSandComics - PDF_ARCHiVE @datadesk @nasa-jpl @blackgirlscode](https://archive.org/details/image_20250428_2325/1ALTADENA_EATON_FiRE_2feb686a-eb67-43fe-a787-b0ea4bc6e29e/)
+ [RiotData](https://www.youtube.com/watch?v=eDgVe6qw0ms&themeRefresh=1) and [FireData](https://www.youtube.com/watch?v=tkvdDVnkeiw)
+ [![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@iss_Research__-blue?style=social&logo=X)](https://twitter.com/@iss_research)
+
+![image](https://github.com/user-attachments/assets/9ab8777f-fc65-4399-8943-0e939040a303)
+ 
+
+# LBTV Live
+![image](https://github.com/user-attachments/assets/75f928e7-a555-4d83-9981-7e566d803ace)
+[LBTV Live](https://www.longbeach.gov/lbtv) @nasa-jpl [local](https://iptv-org.github.io/) 
+![image](https://github.com/user-attachments/assets/35e679fd-4151-4253-bc9e-40768c86126e)
 
 # Axiom-4 Launch LIVE | Astronaut Shubhanshu Shukla LIVE Updates | Axiom 4 Mission | NASA | ISRO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKPkEIhjGDM?si=qXtEcmAg8MC0GzTT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
