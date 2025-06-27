@@ -8,9 +8,6 @@
 
 ![image](https://github.com/user-attachments/assets/9ab8777f-fc65-4399-8943-0e939040a303)
  
-![image](https://github.com/user-attachments/assets/aa6930bc-72e8-4639-8f35-ae469e92188e)
-
-
 
 # LBTV Live
 ![image](https://github.com/user-attachments/assets/75f928e7-a555-4d83-9981-7e566d803ace)
