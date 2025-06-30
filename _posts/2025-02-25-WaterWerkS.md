@@ -2,6 +2,31 @@
 layout: default
 ---
 
+# The Los Angeles Times  1895-08-15
+
+<iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Pilot Episode  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+
+The Port of Los Angeles: a History
+<iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
+<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
+[Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
+![La Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg) By Unknown author - <a rel="nofollow" class="external free" href="https://tessa.lapl.org/cdm/search/searchterm/00032727">https://tessa.lapl.org/cdm/search/searchterm/00032727</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7035575">Link</a>
+
+
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
