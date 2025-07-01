@@ -2,6 +2,37 @@
 layout: default
 ---
 
+![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
+
+![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
+
+![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
+
+[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
+<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
+
+
+
+
+![@blackgirlscode hi](https://github.com/user-attachments/assets/cc045d4b-c1de-443c-84ad-294e741b6268)
+
+
+[DOWNLOAD_PDF](https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf)
+<object data="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf">download the PDF file.</a></p></object>
+
+
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
+
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
+
+# _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+<iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0)
 
 
 [Why is Mayor Karen Bass deleting her text messages?](https://www.latimes.com/california/story/2025-03-07/was-bass-incommunicado-while-returning-from-ghana-or-is-her-office-withholding-texts)
