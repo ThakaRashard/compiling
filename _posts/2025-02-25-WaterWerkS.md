@@ -2,6 +2,72 @@
 layout: default
 ---
 
+![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
+
+![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
+
+![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
+
+[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
+<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
+
+
+
+
+![@blackgirlscode hi](https://github.com/user-attachments/assets/cc045d4b-c1de-443c-84ad-294e741b6268)
+
+
+[DOWNLOAD_PDF](https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf)
+<object data="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf">download the PDF file.</a></p></object>
+
+
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
+
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
+
+# _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+<iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0)
+
+
+[Why is Mayor Karen Bass deleting her text messages?](https://www.latimes.com/california/story/2025-03-07/was-bass-incommunicado-while-returning-from-ghana-or-is-her-office-withholding-texts)
+![image](https://github.com/user-attachments/assets/d6181583-aa5c-443e-9d3d-496661efcaad)
+
+
+
+[L.A. Times sues city over Mayor Bass’ deleted text messages during fire response](https://www.latimes.com/california/story/2025-03-28/la-times-sues-bass-administration-for)
+![image](https://github.com/user-attachments/assets/0912082c-e5a5-4e31-855e-ec41084256d5)
+
+# The Los Angeles Times  1895-08-15
+
+<iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Pilot Episode  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+
+The Port of Los Angeles: a History
+<iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
+<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
+[Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
+![La Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg) By Unknown author - <a rel="nofollow" class="external free" href="https://tessa.lapl.org/cdm/search/searchterm/00032727">https://tessa.lapl.org/cdm/search/searchterm/00032727</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7035575">Link</a>
+
+
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
