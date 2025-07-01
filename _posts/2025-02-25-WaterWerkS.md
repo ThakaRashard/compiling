@@ -2,6 +2,16 @@
 layout: default
 ---
 
+
+
+[Why is Mayor Karen Bass deleting her text messages?](https://www.latimes.com/california/story/2025-03-07/was-bass-incommunicado-while-returning-from-ghana-or-is-her-office-withholding-texts)
+![image](https://github.com/user-attachments/assets/d6181583-aa5c-443e-9d3d-496661efcaad)
+
+
+
+[L.A. Times sues city over Mayor Bass’ deleted text messages during fire response](https://www.latimes.com/california/story/2025-03-28/la-times-sues-bass-administration-for)
+![image](https://github.com/user-attachments/assets/0912082c-e5a5-4e31-855e-ec41084256d5)
+
 # The Los Angeles Times  1895-08-15
 
 <iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
