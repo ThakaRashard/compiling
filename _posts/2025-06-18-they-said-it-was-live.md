@@ -1,3 +1,8 @@
+# Enterprise Linux Security Episode 118 - 16 Billion Passwords
+[https://www.youtube.com/@LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV) @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @redhatofficial @ubuntu @suse @blackgirlscode
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ix3GpDGe5w?si=Bd91Y9jCpm_vhMnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [🔴LIVE NEWS and WEBCAMS around the WORLD : June 25](https://www.youtube.com/live/AXV0WkYNJMQ?si=U2Zm2pETzqL1TcRT)
 [NewsStand on /rashardmro](https://rashardmro.github.io/2025/06/13/newsstand.html)
 <object width="560" height="315" data="https://www.youtube.com/embed/AXV0WkYNJMQ?si=5tlxQtwdBqr7R9It" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
