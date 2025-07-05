@@ -1,4 +1,8 @@
 @cityoflosangeles 🧊 🧊 🧊 @nasa-jpl @stateofcalifornia
+![image](https://github.com/user-attachments/assets/b5f9a1a8-8667-4b6a-a316-0a95e3003805)
+Ms Petro, someon deleted my news archive with the riot data, i added the files to this [archive](https://archive.org/download/CHECKiNG_iN_WiTH_NASAJPL) https://archive.org/download/CHECKiNG_iN_WiTH_NASAJPL i went to grifith and talked space missions. I was going to run through some earth satellite facts but they wont let hotpepper phones on the netowrk, thats what i found under a bench on Olvera
+@nasa @nasa-jpl : [JanetPetro](https://www.linkedin.com/in/janet-petro-31270114) [Trello](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) @whitehouse 
+
 <iframe src="https://archive.org/embed/SUmmerNewsPaper_pdf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
