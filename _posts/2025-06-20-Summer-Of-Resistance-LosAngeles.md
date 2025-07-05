@@ -2,6 +2,9 @@
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[What Makes a Battle? by U.S. War Department, Army Pictorial Service](https://archive.org/details/WhatMake1944)
+[Weapons Effects Test Grable (1953)](https://www.youtube.com/watch?v=9LiXIXKDcnM)
+
 @whitehouse `HOLLYWOOD: Trump’s unhinged Gestapo` @nasa-jpl @dhs-gov
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey, Democrats, we need y’all to do something with cosplay ICE agents.<br>They’re going to run up on the wrong one &amp; get maced in the face or worse bc most women, including myself, will not comply w/masked men wearing generic gear👇no formal ID &amp; means of transport is a dark van/SUV <a href="https://t.co/xipGOa4BPj">pic.twitter.com/xipGOa4BPj</a></p>&mdash; Dawn Young-McDaniel❌👑 (@justdawn_) <a href="https://twitter.com/justdawn_/status/1936421208385359980?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
