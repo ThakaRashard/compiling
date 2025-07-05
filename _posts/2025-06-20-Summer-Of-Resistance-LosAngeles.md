@@ -1,5 +1,5 @@
 @cityoflosangeles 🧊 🧊 🧊 @nasa-jpl @stateofcalifornia
-
+<iframe src="https://archive.org/embed/SUmmerNewsPaper_pdf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Who wants more ICE? 🧊 <br>More ice please! <a href="https://t.co/3YUK25xubo">pic.twitter.com/3YUK25xubo</a></p>&mdash; Mr. Will Johnson (@ImMrWillJohnson) <a href="https://twitter.com/ImMrWillJohnson/status/1936304677005476299?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [What Makes a Battle? by U.S. War Department, Army Pictorial Service](https://archive.org/details/WhatMake1944)
