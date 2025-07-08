@@ -15,6 +15,52 @@ i remember you from bull st... [Veronica McGregor](https://www.webbyawards.com/5
 ```
 He started writing in Miami, 1983. We chat about his personal history, his traveling and photo trading in the days before the internet and his mixed feelings and responsibility around being part of the early wave of graffiti on the internet as part of the crew that borough us 12ozProphet.com
 ```
+
+
+
+[White slave traffic act, approved June 25, 1910](https://www.loc.gov/item/10036085/)
+[adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/image_20250428_2325/1_adult_EntertainmentZoning_LOS_ANGELES.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [FucK_ICE_RiOTs](https://ia601809.us.archive.org/19/items/image_20250428_2325/1_fuck_ICE_riots_dtla_SimpleScanStation20250611102307.pdf)  [MARIJUANA_LEGALIZATION_Prop64.pdf](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf) [PROPOSITION 64 – ADULT USE OF MARIJUANA ACT AND CALIFORNIA POST SELECTION STANDARDS ](https://post.ca.gov/Portals/0/post_docs/resources/proposition-64/Proposition-64-and-POST-Selection-Standards.pdf) [diddy](https://archive.org/download/image_20250428_2325/diddy_usa_today.pdf) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl) [![Twitter Follow](https://img.shields.io/badge/Social-@LAPDCentral__-blue?style=social&logo=X)](https://twitter.com/@LAPDCentral) [![Twitter Follow](https://img.shields.io/badge/Social-@YungMiami305__-blue?style=social&logo=X)](https://twitter.com/@YungMiami305) [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/@blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@6gems__-blue?style=social&logo=X)](https://twitter.com/@6gems)   [frieda](https://ia801809.us.archive.org/19/items/image_20250428_2325/freidaimpleScanStation20250622161418.pdf) [RiotGraffNotes](https://ia801809.us.archive.org/19/items/image_20250428_2325/lariotgrafffworknotesandimpersonationnotes.pdf) @whitehouse [![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [LA_PROTEST_25](https://ia601809.us.archive.org/19/items/image_20250428_2325/workprotesticerescanSimpleScanStation20250623103342.pdf) [@chirlavideos on youtube](https://www.youtube.com/channel/UCkpuw8C5tb4RL8IwI-liMsA) [Live from the Adelanto ICE Processing Center 🚨 Six legal representatives, community members, and immigrant rights leaders f](https://www.facebook.com/chirlausa/videos/-live-from-the-adelanto-ice-processing-center-six-legal-representatives-communit/2022658185205727) [LIVE NOW: Hope in Action, Strength in Unity ✊🏽✨ Join LA labor and immigrant rights groups as they launch the Summer of Resistance — 30 days](https://www.facebook.com/chirlausa/videos/live-now-hope-in-action-strength-in-unity-join-la-labor-and-immigrant-rights-gro/752074910503154) [DomesticWorkers @blackgirlscod](https://youtu.be/i2UGcbtQphU?si=KNI6rA-bsdfMBt_x) [Immigrant rights groups launch 'Summer of Resistance,' calling for end to ICE raids, deportations](https://abc7.com/post/los-angeles-immigrant-rights-groups-launch-summer-resistance-campaign-denouncing-ice-raids-deportations/16744793/)
+
+
+<img src="https://archive.org/download/No_Kings_Protest_Papers_n_Posters/workprotesticerescanSimpleScanStation20250623103342-01.png" alt="item image #50" />
+  
+
+
+
+
+<div class="tupperware" markdown="1">
+
+![image](https://github.com/user-attachments/assets/ff7e48a2-c52a-492f-9578-0e174dad9fda)
+
+![image](https://github.com/user-attachments/assets/fd23c74a-31eb-447f-acf7-f50a58a1264a)
+
+![image](https://github.com/user-attachments/assets/25b7ad12-cca1-4425-8cf3-43cc971ff4ae)
+
+![image](https://github.com/user-attachments/assets/38a50b92-5022-46aa-9d3a-c866466995aa)
+
+![image](https://github.com/user-attachments/assets/46d432fc-c6b3-4436-bd60-55db8662fce9)
+
+
+</div>
+
+
+
+ 
+
+
+# LIVE: ABC7 Eyewitness News
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Los Angeles Protest LIVE: ‘No Kings’ Protests Planned Across L.A. Amid ICE Raid | US Marines | N18G
+
+<object width="560" height="315" data="https://www.youtube.com/embed/Xk1Mma3ukiU?si=Mrr9tAetSkmn31bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+
+<object width="640" height="360" data="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></object>
+[RashardsBinder](https://rashardmro.github.io/mybinder/)
 [CALiFORNiA_LiNUX:My Git Hub Journey](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) To The Web Interface RASHARD IMAN KELLY NASA M R O I S S ECOSTRESS SWOT
 <iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ![image](https://github.com/user-attachments/assets/b5f9a1a8-8667-4b6a-a316-0a95e3003805)
