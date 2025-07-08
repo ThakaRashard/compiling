@@ -15,7 +15,9 @@ i remember you from bull st... [Veronica McGregor](https://www.webbyawards.com/5
 ```
 He started writing in Miami, 1983. We chat about his personal history, his traveling and photo trading in the days before the internet and his mixed feelings and responsibility around being part of the early wave of graffiti on the internet as part of the crew that borough us 12ozProphet.com
 ```
-
+## 'An eyesore': Inland Empire city can't shake its abandoned mall
+[link](https://www.sfgate.com/bayarea/article/california-inland-empire-abandoned-mall-20347886.php)
+![image](https://github.com/user-attachments/assets/5201eb71-1242-4088-8371-40e66be11b71)
 
 
 [White slave traffic act, approved June 25, 1910](https://www.loc.gov/item/10036085/)
