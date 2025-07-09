@@ -1,3 +1,30 @@
+[LDOPE @nasa-jpl](https://landweb.modaps.eosdis.nasa.gov/) 
+[KOLA 99.9](https://www.kolafm.com/) 
+is a commercial FM radio station licensed to [Redlands](https://www.cityofredlands.org/), [California](https://www.google.com/search?sca_esv=b7953b605ea5985e&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifM6z9PzBccRJMcZEA4e1mixTnhMyg:1752004504978&q=redland+california&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8EE7njRrb2FMGWExx-5ARS2dDjUqH8P7GJI3gXZTNa1ewV-CLv5ZT6fd_dbJFn0Njuz_e0Wu8_7yRkIN2Hnn3CAfH2L-S7a8qDrs-1gsjyM8Z0amfVSgtxyeHYqukoLI3D0Zmnhhn-5vvvmaIzjmG6rQIfOyt7B-TolXJ2CsS93wxGt2JQ&sa=X&sqi=2&ved=2ahUKEwjC6Kexha6OAxWmJ0QIHetYFj0Q0pQJKAN6BAgiEAE&biw=960&bih=945&dpr=1), and airs a classic hits radio format.
+- [listenlive.co/42241](https://player.listenlive.co/42241)
+[https://archive.org/details/screen-recording-2025-07-07-123028](https://archive.org/details/screen-recording-2025-07-07-123028)
+
+[Video @nasa of my activity during the jun7 iss flyover los angeles](https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250708-045854.mp4)
+![image](https://github.com/user-attachments/assets/4e167691-fcdc-495b-b740-4a2aa68402c1)
+
+@NorthropGrumman 
+# STPSat-6
+Advanced Spacecraft for the
+USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-content/uploads/DS-69-STPSat-6.pdf?v=1.0.0) : [WiKi](https://en.wikipedia.org/wiki/Space_Test_Program) : check the comments on this post
+  [SpaceCommand](https://www.ssc.spaceforce.mil/Connect-With-Us/Space-Systems-Command-Front-Door/Space-Test-Program) [USAF Space and Missile Systems Center](https://ntrs.nasa.gov/api/citations/19960054106/downloads/19960054106.pdf) [class](https://www.geo.arizona.edu/content/PlanetaryGeoscience?_gl=1*a03zo4*_gcl_au*MTQwNzAyMTMxMi4xNzUyMDg0Mzcz*_ga*NzI2OTI4MDg4LjE3NTIwODQzNzM.*_ga_7PV3540XS3*czE3NTIwODQzNzMkbzEkZzEkdDE3NTIwODQ0MjMkajEwJGwwJGg3NTE0NDY4NTQ.) [KirtLand.af](https://www.kirtland.af.mil/Portals/52/Innovation%20and%20Prototyping%20Fact%20Sheet_PA%20Approved.pdf) [Space Test Program (STP) Management and Funding(https://dod-executiveagent.osd.mil/Agents/ViewAgent.aspx?agentId=56) [RAiden_DX](https://archive.org/details/arcade_raidendx#)
+
+<div class=tupperware markdown="1">
+
+![image](https://github.com/user-attachments/assets/93607547-f37b-47fe-8c1b-ecb80de43ba6)
+
+![image](https://github.com/user-attachments/assets/875c42eb-81cc-4078-80b5-2582b1e82f49)
+
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid02MdLMDV8jJPyDzmRaLSdeWutg7X9vpHX5MVkk262FQr5LQUhYgWN9TM2BZd4PMFQVl&show_text=false&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid028NvzNHBMTBuC7tqhSsQceuEUHLzTEo3hF12Xp9i8C7zaZeGUYikqFEH57GYQ6k4Vl&show_text=true&width=500" width="500" height="559" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
 
 ![HAWTHORNE_SPACEx](https://pbs.twimg.com/media/GB51dVhbEAArSYr?format=jpg&name=large)
 [Related](https://x.com/BubbleGumPop510/status/1737956171343139024) [LinuxFromScratch](https://x.com/BubbleGumPop510/status/1883040281215603149)
