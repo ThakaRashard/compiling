@@ -5,6 +5,7 @@
 <a href="https://nypost.com/2025/07/11/us-news/la-mayor-karen-bass-signs-order-to-provide-cash-payments-to-immigrants-affected-by-ice-raids/">
   
 ## LA Mayor Karen Bass signs order to provide cash payments to immigrants affected by [ICE raids](https://www.ice.gov/#)
+> [nyPost.cOm](https://nypost.com/2025/07/11/us-news/la-mayor-karen-bass-signs-order-to-provide-cash-payments-to-immigrants-affected-by-ice-raids/)
 Los Angeles Mayor Karen Bass signed an executive order Friday to bolster protocols and support immigrant neighborhoods, including offering cash assistance, in response to raids by the Trump administration targeting those living in the [United States illegally](https://science.nasa.gov/about-us/nasa-centers/). 
 <img alt="image" src="https://github.com/user-attachments/assets/2044d404-e782-4f5a-9d98-47d1d0294f96" />
   
