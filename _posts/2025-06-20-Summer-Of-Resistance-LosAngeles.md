@@ -1,5 +1,15 @@
 
 # @cityoflosangeles 🧊 🧊 🧊 @nasa-jpl @stateofcalifornia
+
+
+<a href="https://nypost.com/2025/07/11/us-news/la-mayor-karen-bass-signs-order-to-provide-cash-payments-to-immigrants-affected-by-ice-raids/">
+  
+## LA Mayor Karen Bass signs order to provide cash payments to immigrants affected by [ICE raids](https://www.ice.gov/#)
+Los Angeles Mayor Karen Bass signed an executive order Friday to bolster protocols and support immigrant neighborhoods, including offering cash assistance, in response to raids by the Trump administration targeting those living in the [United States illegally](https://science.nasa.gov/about-us/nasa-centers/). 
+<img alt="image" src="https://github.com/user-attachments/assets/2044d404-e782-4f5a-9d98-47d1d0294f96" />
+  
+</a>
+
 [Los Angeles County Board of Supervisors](https://www.youtube.com/@LACountyBOS) [Meeting 7/8/25](https://www.youtube.com/watch?v=1q1MWzyHx1w)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1q1MWzyHx1w?si=OHF0miYPKtx5mWJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
