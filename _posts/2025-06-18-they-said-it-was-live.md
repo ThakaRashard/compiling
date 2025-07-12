@@ -1,3 +1,11 @@
+
+LIVE: Protesters Clash With [Ice](https://www.ice.gov/newsroom) At [California](https://www.hindustantimes.com/world-news/us-news/camarillo-ice-raids-whats-happening-on-glass-house-farms-laguna-and-las-posas-roads-in-ventura-scary-videos-surface-101752182977458.html) Farm [WPDE ABC15](https://www.youtube.com/@wpdeabc15) : [https://abcnews.go.com/US/federal-agents-clash-protesters-ice-raid-southern-california/story?id=123657572](https://abcnews.go.com/US/federal-agents-clash-protesters-ice-raid-southern-california/story?id=123657572)
+[CamaRillo,California](https://go.nasa.gov/44VUndU)
+<img width="1919" height="398" alt="image" src="https://github.com/user-attachments/assets/49c23e4e-f8a6-45a8-8b60-a2cb646a68af" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpMpahGExwQ?si=oCE2MVy6OFZJ4mPB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Los Angeles County Board of Supervisors](https://www.youtube.com/@LACountyBOS) [Meeting 7/8/25](https://www.youtube.com/watch?v=1q1MWzyHx1w)
 Board of Supervisors
 Serving The County of Los Angeles Since 1892 [homepage](https://bos.lacounty.gov/) [email](executiveoffice@bos.lacounty.gov)
