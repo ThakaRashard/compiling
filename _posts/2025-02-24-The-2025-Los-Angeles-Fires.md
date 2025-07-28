@@ -7,6 +7,9 @@ image: shocked-i-know-this.gif
 ---
 
 ### DOXXED FOR THIS DATA
+
+🚫 Sorry, this post was removed by [Reddit’s filters](https://www.blackhatworld.com/seo/sorry-this-post-was-removed-by-reddit-filters-what-it-means.1576859/).
+
 <img  alt="DOXXED ON FACEBOOK AND REDDiT FOR THiS DATA" src="https://github.com/user-attachments/assets/c48f98da-1b79-488c-9358-05c5fde9a6e0" />
 
 
