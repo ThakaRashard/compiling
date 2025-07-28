@@ -1,0 +1,1 @@
+[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/) Learn different techniques to resize images in HTML, when you should avoid browser-side resizing, and the right way to manipulate & serve images on the web. - [MANU CHAUDHARY](https://imagekit.io/blog/author/manu/)
