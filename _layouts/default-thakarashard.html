@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+
+      <header>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <caption>{{ page.description | default: site.description | default: site.github.project_tagline }}</caption>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>Git</strong></a>
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <span><a href="https://ricothaka.github.io/compiling/atom">AtomFeed</a></span>
+            <a href="https://x.com/ricothaka/" class="">X</a>
+            <a href="https://thakarashard.github.io/rashardmro/" class="">RasharD_MarsBLog</a>
+            <a href="https://thakarashard.github.io/news" class="">NEWS</a>
+             <a href="https://codepen.io/thakarashard" class="">CodePen</a>
+                             <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                    <img style="margin:auto;width:57px;height:20px"
+                        src="https://jigsaw.w3.org/css-validator/images/vcss"
+                        alt="Valid CSS!" />
+                </a>
+           
+              <a href="https://thakarashard.github.io/compiling/" class="button">Blog</a>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section class="floatleft floatright" itemscope itemtype="http://schema.org/Blog">
+        {{ content }}
+
+      </section>
+    
+    </div>
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+  </body>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+</html>
