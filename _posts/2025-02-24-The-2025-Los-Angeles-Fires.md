@@ -6,8 +6,27 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
-
+### DOXXED FOR THIS DATA
 <img  alt="DOXXED ON FACEBOOK AND REDDiT FOR THiS DATA" src="https://github.com/user-attachments/assets/c48f98da-1b79-488c-9358-05c5fde9a6e0" />
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+
+[https://svs.gsfc.nasa.gov/5568/](https://svs.gsfc.nasa.gov/5568/)
+Visualizations by:
+[https://svs.gsfc.nasa.gov/5558/](https://svs.gsfc.nasa.gov/5558/)
+
+[Zoey N. Armstrong](https://svs.gsfc.nasa.gov/search/)
+
+Visualizations by:
+
+[Cindy Starr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+
+    Scientific consulting by:
+
+[Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
+@nasa @cityoflosangeles @stateofcalifornia @atfweb
+
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="378"><a href="https://www.reddit.com/r/nasa/comments/1mbnt8i/spread_of_the_palisades_and_eaton_fires_january/">Spread of the Palisades and Eaton Fires - January 2025</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/nasa/">nasa</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
