@@ -1,3 +1,75 @@
+
+<div>
+{% for image in site.static_files %}
+
+  {% if image.path contains 'assets/images/gallery-1' %}
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+  {% endif %}
+
+{% endfor %}
+</div>
+
+{% raw %}
+
+{% for image in site.static_files %}
+
+  {% if image.path contains 'assets/images/gallery-1' %}
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+  {% endif %}
+
+{% endfor %}
+
+{% endraw %}
+
+[MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
+--- 
+
+
+# Jekyll - Display All Images In Folder
+[davisefor.com](https://daviseford.com/blog/2017/05/31/jekyll-loop-over-folder.html)
+<div class="tupperware">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+</div>
+
+
+
+
+  {% raw %}
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+  {% endraw %}
+  
+[Liquid reference](https://shopify.dev/docs/api/liquid) Liquid is a template language created by Shopify. It's available as [an open source project on GitHub](https://github.com/ThakaRashard/liquid), and is used by many different software projects and [companies](https://www.nasa.gov/international-space-station/).
+[Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
+>[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
+![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
+[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg)
+I need to highlight these ==very important words==.
+```
+I need to highlight these ==very important words==.
+```
+[https://admin.shopify.com/store/holetoanotheruniverse](https://admin.shopify.com/store/holetoanotheruniverse) 
+
+
+
+
+[ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
+![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
+
+
 [NASA Renames Mars Lander in Honor of Late Carl Sagan ](https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/) [How did everyone feel about Donald Glover in the Martian? His character was a complete rip off of Abed and it really grated my biscuits.](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=49228)
 ![https://www.pge.com/pipeline/en/about-cgt/doing-business/citygate-diagram/_jcr_content/root/container/image.coreimg.png/1699029751879/citygate-highres-text.png - PGE](https://www.pge.com/pipeline/en/about-cgt/doing-business/citygate-diagram/_jcr_content/root/container/image.coreimg.png/1699029751879/citygate-highres-text.png)
 The Citygate is any point at which the backbone transmission system connects to the local transmission and distribution system. The Citygate is not one specific, physical location. It is a virtual trading point on CGT's system.
