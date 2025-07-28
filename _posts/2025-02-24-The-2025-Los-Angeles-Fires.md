@@ -6,6 +6,60 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+
+<img  alt="DOXXED ON FACEBOOK AND REDDiT FOR THiS DATA" src="https://github.com/user-attachments/assets/c48f98da-1b79-488c-9358-05c5fde9a6e0" />
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="378"><a href="https://www.reddit.com/r/nasa/comments/1mbnt8i/spread_of_the_palisades_and_eaton_fires_january/">Spread of the Palisades and Eaton Fires - January 2025</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/nasa/">nasa</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2cc6009d-73c6-4c7b-b438-55ef52eb0d1f" />
+
+
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
+![Start Of The Palisades Fire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png)
+
+![EatonFire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png)
+[RelatedMetaFACEBOOK](https://www.facebook.com/permalink.php?story_fbid=pfbid022AsmhjApmWb1uyuCR4YyMn4UsmUmUb46U3RvtPDFetd6KQCxcBmE5Bk8eT145eBTl&id=100084464911565) 
+
+
+###
+[Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
+[ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+<video  controls poster="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23695.width-1024.jpg">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+[Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
+Powerful Santa Ana winds and dry conditions contributed to the rapid spread of several brush fires in the county.
+[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) 
+
+[Palisades Fire reaches Brentwood, threatens San Fernando Valley @ktla youtube.com](https://youtu.be/DNkLoBtWFhA)
+
+![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
+
+![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A view of the <a href="https://twitter.com/hashtag/EatonFire?src=hash&amp;ref_src=twsrc%5Etfw">#EatonFire</a> behind <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> Flight Projects Center. It feels like Armageddon around here <a href="https://t.co/pPWJ0B2rIB">pic.twitter.com/pPWJ0B2rIB</a></p>&mdash; Royce (@RobRoyce_) <a href="https://twitter.com/RobRoyce_/status/1877443901839069539?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
+
 # EatonCanyon UpDates
 [files](https://archive.org/download/2marvoyagerneptune-simple-scan-station-20250703162827-19) :: [Wiki](https://en.wikipedia.org/wiki/Eaton_Fire) :: [TALK](https://en.wikipedia.org/wiki/Talk:Eaton_Fire)
 [How NASA’s Infrared Imaging Uncovered the True Extent of Eaton Fire Devastation](https://scitechdaily.com/how-nasas-infrared-imaging-uncovered-the-true-extent-of-eaton-fire-devastation/)
