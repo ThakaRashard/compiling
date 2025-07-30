@@ -9,6 +9,7 @@
 
 <iframe src="https://archive.org/embed/scre-californiaLinux_firedatadelivery" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<iframe src="https://archive.org/embed/1-recommending-grafana-docker" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/790452012229722112
 
