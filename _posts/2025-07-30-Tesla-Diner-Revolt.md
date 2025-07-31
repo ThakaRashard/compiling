@@ -5,14 +5,9 @@ published: true
 title: Tesla Diner Revolt
 image: shocked-i-know-this.gif
 ---
-<video  controls >
-  <source src="https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250729_201709.mp4" type="video/mp4" />
-  
-  Your browser does not support the video tag.
-</video>
 
 
-[lariver 7/30](https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250730_062641.mp4) 
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bRXbmnM98phXRPuu6CiRb2LQeDsniyGEvxZtytwjkdTLjBgKruZy729vQpZ1Pjodl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -56,6 +51,21 @@ image: shocked-i-know-this.gif
 
 <img  alt="image" src="https://github.com/user-attachments/assets/42d701da-70a2-432d-ad2b-1b48c0ed916d" />
 
+# Learnin Light
+
+[lariver 7/30](https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250730_062641.mp4) 
+
+<video  controls >
+  <source src="https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250729_201709.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+<video  controls >
+  <source src="https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250730_062952.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 
 ## nisar lau8nch
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zjSYyq7QrS95NnBpheXHrquuPf8z3yffZMftRz3ZqgV9f3jyWeLFCShE1GQ7atEyl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
