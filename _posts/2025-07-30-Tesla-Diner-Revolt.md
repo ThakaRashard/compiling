@@ -21,6 +21,9 @@ API SOURCE: NASA/JPL Horizons API
  Tesla Roadster (AKA: Starman, 2018-017A)
 [ReadMore](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-143205%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27) + [WiKi](https://en.wikipedia.org/wiki/Elon_Musk%27s_Tesla_Roadster) : : [WiKiTALK](https://en.wikipedia.org/wiki/Talk:Elon_Musk%27s_Tesla_Roadster) :: [Tracking STARMAN - whereisroadster.com](https://www.whereisroadster.com/)
 
+Elon Musk's Tesla Roadster in Space - [Live Position](https://where-is-tesla-roadster.space/live)
+<img alt="Elon Musk's Tesla Roadster in Space - Live Position" src="https://github.com/user-attachments/assets/348a28b3-3b4b-408d-9eab-38a236d66474" />
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bRXbmnM98phXRPuu6CiRb2LQeDsniyGEvxZtytwjkdTLjBgKruZy729vQpZ1Pjodl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
