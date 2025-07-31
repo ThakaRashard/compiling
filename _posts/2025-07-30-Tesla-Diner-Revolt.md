@@ -1,3 +1,16 @@
+---
+layout: post
+mermaid: true
+published: true
+title: Tesla Diner Revolt
+image: shocked-i-know-this.gif
+---
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bRXbmnM98phXRPuu6CiRb2LQeDsniyGEvxZtytwjkdTLjBgKruZy729vQpZ1Pjodl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0r1oJ2iKzLhX8Qa1XT5t7diD8oDuWfNakBwMKqpXUrNBN2fdAMXkPg3XwzwJwVdYZl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 # # CAlifornia_Linux : launchprep_twitter_work_retweets
@@ -5,6 +18,10 @@
 <iframe src="https://archive.org/embed/launchprep_twitter_work_retweets" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dWXxpo8h3FSa6HLFL2JYev53yP1rDmV562mCJvRS9ByML5gZBsqH8kvJ39fNsYmsl%26id%3D100084464911565&show_text=true&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+### Ping 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid09whT8WB3sNveGhcE3VaqqC1u98AwXmZoEabSByM74sJJR9fPyGvvoiE9UwsNXZ6Sl%26id%3D100084464911565&show_text=true&width=500" width="500" height="554" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://archive.org/embed/vid-20250727-190404-adb-epa-noaa-swot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
