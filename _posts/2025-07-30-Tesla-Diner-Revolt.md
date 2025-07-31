@@ -5,6 +5,12 @@ published: true
 title: Tesla Diner Revolt
 image: shocked-i-know-this.gif
 ---
+<video  controls >
+  <source src="https://dn721704.ca.archive.org/0/items/vid-20250730-062952-california-ecostress/VID_20250729_201709.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bRXbmnM98phXRPuu6CiRb2LQeDsniyGEvxZtytwjkdTLjBgKruZy729vQpZ1Pjodl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
