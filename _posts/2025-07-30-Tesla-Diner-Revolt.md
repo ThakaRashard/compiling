@@ -15,7 +15,7 @@ API VERSION: 1.2
 API SOURCE: NASA/JPL Horizons API
 
 *******************************************************************************
- Revised: Jan 03, 2025          Tesla Roadster (spacecraft)             [-143205](https://youtu.be/sTNd8PnQMoU?si=6STSTH-wXo1pcA5e)
+ Revised: Jan 03, 2025          Tesla Roadster ([spacecraft](https://www.youtube.com/watch?v=dZzY8-nxabA&ab_channel=USNationalArchives))             [-143205](https://youtu.be/sTNd8PnQMoU?si=6STSTH-wXo1pcA5e)
           (solution #11)
  
  Tesla Roadster (AKA: Starman, 2018-017A)
