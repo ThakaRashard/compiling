@@ -6,6 +6,14 @@ title: Tesla Diner Revolt
 ---
 
 
+@nasa-jpl i told the @tesla protesters [im a rescue](https://www.facebook.com/CaptainOfJoy/posts/pfbid0yR3CVVro8d6niFWN6Sfuycxc5HzCsvR2GPRU6edxjLNj5aodLoH97URj7rUxgDil) 
+
+<video  controls >
+  <source src="https://ia802906.us.archive.org/4/items/download_6287_1754168541/VID_20250803_182611.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
 <img alt="@nasa-jpl im on, its still helpdesk" src="https://github.com/user-attachments/assets/aa9f59d6-f2bd-46c1-906d-b2d64114c743" />
 
 ## @NASA's [SpaceX](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-143205%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)  Crew-11 Launch 
