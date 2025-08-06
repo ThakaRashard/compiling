@@ -7,6 +7,10 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+
+# Regular City Council - 8/6/25 @cityoflosangeles 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fnR1sUKk0cc?si=ouWPh_ZezAXtB14J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @stateofcalifornia @podaac @nasa-jpl @atfweb 
+
 # 🔴 LIVE: Google Cybersecurity Certificate | Google
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phMMVyHWcgw?si=76LphL6G3EpBlsAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @nasa-jpl #ONLiNELEARNiNG @stateofcalifornia @cityoflosangles
