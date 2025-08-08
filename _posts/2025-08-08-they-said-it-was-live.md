@@ -7,7 +7,14 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+# UPDATE! @NASA’s @r-SpaceX Crew-10 Hatch Close & Undocking Countdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne5QvLE5Fx0?si=VWwkIy0XqEAMVIge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/cc650a14-a481-434a-a022-213da4ad5e45" />
+
+# LIVE: Breaking News and Top Stories on CBS News 24/7
+@cbs-news-data @cbsinteractive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ch3tcvcUmJk?si=L6HrGxyQb178rPve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 NASA’s SpaceX Crew-10 Hatch Close
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gn6qR__BbYg?si=jEZN-SZvuTMKBG1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
