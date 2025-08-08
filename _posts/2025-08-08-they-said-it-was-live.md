@@ -7,6 +7,40 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+
+# LIVE: 'Active shooting' reported at Emory Point near university campus
+@foxnews [FOX 5 Atlanta youtube.com/@fox5atlanta](https://www.youtube.com/@fox5atlanta)
+Started streaming 98 minutes ago
+There is a large police presence on the campus of Emory University near the main campus of the Centers for Disease Control and Prevention.
+
+Read more: https://www.fox5atlanta.com/news/gwin...
+
+Subscribe to FOX 5 Atlanta!: https://bit.ly/3vpFpcm
+
+Watch FOX 5 Atlanta Live: https://www.fox5atlanta.com/live
+
+FOX 5 Atlanta delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from metro Atlanta, north Georgia and across the nation.
+
+Watch more from FOX 5 Atlanta on YouTube:
+FOX 5 News:    • FOX 5 News  
+FOX 5 Atlanta I-Team:    • FOX 5 Atlanta I-Team  
+Good Day Atlanta:    • Playlist  
+FOX 5 Extras:    • FOX 5 Extras  
+You Decide:    • You Decide | FOX 5 News  
+
+Download the FOX 5 Atlanta app: https://www.fox5atlanta.com/app
+
+Download the FOX 5 Storm Team app: https://www.fox5atlanta.com/storm
+
+Follow FOX 5 Atlanta on Facebook:   / fox5atlanta  
+
+Follow FOX 5 Atlanta on Twitter:   / fox5atlanta  
+
+Follow FOX 5 Atlanta on Instagram:   / fox5atlanta  
+
+Subscribe to the Morning Brief and other newsletters from FOX 5 Atlanta: https://www.fox5atlanta.com/email
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vq0ZhBBldQ4?si=emTQr9MDKLEoSlib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # UPDATE! @NASA’s @r-SpaceX Crew-10 Hatch Close & Undocking Countdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ne5QvLE5Fx0?si=VWwkIy0XqEAMVIge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
