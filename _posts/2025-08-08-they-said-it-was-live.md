@@ -7,6 +7,11 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+# Regular City Council - 8/8/25 @cityoflosangeles @stateofcalifornia @nasa @nasa-jpl
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ztD4CUlE9c?si=u31jIwtY3MtYnI0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+UPDATE! NASA’s SpaceX Crew-10 Hatch Close & Undocking Countdown @blackgirlscode
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne5QvLE5Fx0?si=_UoQSNuFY1WswAI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Regular City Council - 8/6/25 @cityoflosangeles 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnR1sUKk0cc?si=ouWPh_ZezAXtB14J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @stateofcalifornia @podaac @nasa-jpl @atfweb 
