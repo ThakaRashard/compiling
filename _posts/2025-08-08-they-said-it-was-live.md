@@ -7,6 +7,19 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+
+
+NASA’s SpaceX Crew-10 Hatch Close
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn6qR__BbYg?si=jEZN-SZvuTMKBG1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @nasa @whitehouse @stateofcalifornia we aer closing the hatch
+
+# NASA SpaceX Crew-10 
+:: @r-spacex @dhs-gov @nasa-jpl
+Spacecraft Undocking and Return From Space Station with LIVE view from ISS
+@stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
+
+
 # DEFCON 33: @DefconParrot
 Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
 [The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/)
@@ -14,9 +27,7 @@ Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.y
 
 
 
-# NASA SpaceX Crew-10 :: @r-spacex @dhs-gov @nasa-jpl
-Spacecraft Undocking and Return From Space Station with LIVE view from ISS
-@stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Azw7zSj8FFk?si=--ysSB6aBKobsiN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
