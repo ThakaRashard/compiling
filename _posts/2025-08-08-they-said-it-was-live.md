@@ -9,7 +9,14 @@ image: PIA01594.jpg
 
 # NASA SpaceX Crew-10 :: @r-spacex @dhs-gov @nasa-jpl
 Spacecraft Undocking and Return From Space Station with LIVE view from ISS
+@stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Azw7zSj8FFk?si=--ysSB6aBKobsiN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+<img  alt="image" src="https://github.com/user-attachments/assets/b3f70098-8c79-47a7-a31c-47d36bf0a788" />
+</div>
 
 # DEFCON 33: 
 Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
