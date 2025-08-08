@@ -7,8 +7,12 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+# NASA SpaceX Crew-10 :: @r-spacex @dhs-gov @nasa-jpl
+Spacecraft Undocking and Return From Space Station with LIVE view from ISS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Azw7zSj8FFk?si=--ysSB6aBKobsiN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# DEFCON 33: Track 5 Talks @defcon @nasa @boeing @whitehouse 
+# DEFCON 33: 
+Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Regular City Council - 8/8/25 @cityoflosangeles @stateofcalifornia @nasa @nasa-jpl
@@ -23,7 +27,6 @@ UPDATE! NASA’s SpaceX Crew-10 Hatch Close & Undocking Countdown @blackgirlscod
 # 🔴 LIVE: Google Cybersecurity Certificate | Google
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phMMVyHWcgw?si=76LphL6G3EpBlsAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @nasa-jpl #ONLiNELEARNiNG @stateofcalifornia @cityoflosangles
-
 
 
 [Live webcams from around SoCal](https://www.foxla.com/live-webcams-southern-california)
