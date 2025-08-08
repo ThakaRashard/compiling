@@ -7,6 +7,10 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+
+# DEFCON 33: Track 5 Talks @defcon @nasa @boeing @whitehouse 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Regular City Council - 8/8/25 @cityoflosangeles @stateofcalifornia @nasa @nasa-jpl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ztD4CUlE9c?si=u31jIwtY3MtYnI0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
