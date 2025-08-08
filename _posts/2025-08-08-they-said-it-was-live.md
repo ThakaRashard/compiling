@@ -7,6 +7,13 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+# DEFCON 33: @DefconParrot
+Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
+[The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 # NASA SpaceX Crew-10 :: @r-spacex @dhs-gov @nasa-jpl
 Spacecraft Undocking and Return From Space Station with LIVE view from ISS
 @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
@@ -18,9 +25,6 @@ Spacecraft Undocking and Return From Space Station with LIVE view from ISS
 <img  alt="image" src="https://github.com/user-attachments/assets/b3f70098-8c79-47a7-a31c-47d36bf0a788" />
 </div>
 
-# DEFCON 33: @DefconParrot
-Track 5 Talks @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Regular City Council - 8/8/25 @cityoflosangeles @stateofcalifornia @nasa @nasa-jpl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ztD4CUlE9c?si=u31jIwtY3MtYnI0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
