@@ -2,7 +2,7 @@
 layout: post
 title:  "They Said iT Was Live"
 published: true
-date:   2025-08-04 22:51:06 -0800
+date:   2025-08-08 22:51:06 -0800
 tags: jupiter europa live news
 image: PIA01594.jpg
 ---
