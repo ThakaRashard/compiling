@@ -2,11 +2,49 @@
 layout: post
 title:  "They Said iT Was Live"
 published: true
-date:   2025-08-04 22:51:06 -0800
+date:   2025-08-08 22:51:06 -0800
 tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+
+
+NASA’s SpaceX Crew-10 Hatch Close
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn6qR__BbYg?si=jEZN-SZvuTMKBG1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @nasa @whitehouse @stateofcalifornia we aer closing the hatch
+
+# NASA SpaceX Crew-10 
+:: @r-spacex @dhs-gov @nasa-jpl
+Spacecraft Undocking and Return From Space Station with LIVE view from ISS
+@stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
+
+## DEFCON 33: Track 1 Talks
+@defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
+[The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sslnkb4MnTg?si=LOMt2pAZbRFtPum2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## DEFCON 33: @DefconParrot
+Track 5 Talks 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Azw7zSj8FFk?si=--ysSB6aBKobsiN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+<img  alt="image" src="https://github.com/user-attachments/assets/b3f70098-8c79-47a7-a31c-47d36bf0a788" />
+</div>
+
+
+# Regular City Council - 8/8/25 @cityoflosangeles @stateofcalifornia @nasa @nasa-jpl
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ztD4CUlE9c?si=u31jIwtY3MtYnI0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+UPDATE! NASA’s SpaceX Crew-10 Hatch Close & Undocking Countdown @blackgirlscode
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne5QvLE5Fx0?si=_UoQSNuFY1WswAI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Regular City Council - 8/6/25 @cityoflosangeles 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnR1sUKk0cc?si=ouWPh_ZezAXtB14J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @stateofcalifornia @podaac @nasa-jpl @atfweb 
@@ -14,7 +52,6 @@ image: PIA01594.jpg
 # 🔴 LIVE: Google Cybersecurity Certificate | Google
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phMMVyHWcgw?si=76LphL6G3EpBlsAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @nasa-jpl #ONLiNELEARNiNG @stateofcalifornia @cityoflosangles
-
 
 
 [Live webcams from around SoCal](https://www.foxla.com/live-webcams-southern-california)

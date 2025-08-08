@@ -1,7 +1,3 @@
----
-mermaid: true
----
-
 # UnixinG_Android 
 Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now...
 
@@ -11,7 +7,7 @@ Hi MRO, want you to have an update on what my computing situation has been since
 <div class="pinupImage expandingGallery">
 <img src="https://i.gifer.com/UiFO.gif" />
 <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GYmk8QmasAEk6i2?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
@@ -39,18 +35,18 @@ There is such an abstraction when running the manufacure bundeld android. But it
 <div class="pinupGallery">
 <div class="expandingGallery"> 
 <img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
-<img src="https://raw.githubusercontent.com/ricoThakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
 </div>
@@ -141,7 +137,7 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 <div class="pinupImage expandingGallery">
 <img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
   <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
-<img src="https://raw.githubusercontent.com/ricothakarashard/ricothakarashardrashard.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
