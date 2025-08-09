@@ -7,6 +7,38 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/9505342f-cc46-4f2d-a745-a5f0812896d9" />
+
+# LIVE NASA Crew 10 Return  
+SpaceX Crew-10 Enters Dragon Endurance, Hatch Closure At ISS  N18G
+Started streaming 5 minutes ago  #Crew10 #NASA #SpaceX
+NASA’s SpaceX Crew-10 mission marks another historic milestone as astronauts successfully enter the Dragon Endurance capsule aboard the International Space Station (ISS). The crew completed hatch closure procedures, initiating a critical phase of their space mission. This marks a key moment in NASA and SpaceX’s ongoing partnership, advancing human spaceflight and ISS operations.
+[CNN-News18 youtube.com/@cnnnews18](https://www.youtube.com/@cnnnews18) @cnn @newshour 
+#Crew10 #NASA #SpaceX #DragonEndurance #ISS #InternationalSpaceStation #news18live #news18 
+
+n18oc_live
+n18oc_world 
+
+News18 Mobile App - https://onelink.to/desc-youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbQdLp_eCPA?si=qqieWnZjKOLhmm34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Ways to Watch](https://www.nasa.gov/ways-to-watch/)
+Space Coast Live: 24/7 Views of NASA, SpaceX Falcon 9 Operations, and Starship Pad Construction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=ayFAbnX-J2nWcdvX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[NASA SPACE FLiGHT](https://www.nasaspaceflight.com/) : [Crew-10 Ready to Undock from Station Live on NASA+](https://www.nasa.gov/blogs/spacestation/2025/08/08/crew-10-ready-to-undock-from-station-live-on-nasa/) : [vintage:Real Martians Moment: Modular Robotic Vehicle](https://youtu.be/flzGF6dkir0)
+![SasaSpaceFlight](https://www.nasaspaceflight.com/wp-content/uploads/2023/03/NSF-Logo-Blue-300.svg)
+
+
+# TRACKER! 
+SpaceX Crew 10 [Dragon Tracker](https://www.spacex.com/follow-dragon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/059xi-JhZpw?si=Ud0_tiiZTTo3Ir4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[WATCH LIVE: SpaceX's Dragon Endurance undocks from ISS as Crew-10 begins journey home @newshour Streamed live 2 hours ago](https://youtu.be/-bo3tapz8kU) [WATCH LIVE: SpaceX Crew-10 enters Dragon spacecraft and closes hatch, beginning ISS departure Streamed 4 hours ago  ](https://www.youtube.com/watch?v=tT6jw7wOBqI) 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fnewshour%2Fvideos%2F1985954598891817%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 # LIVE: 'Active shooting' reported at Emory Point near university campus
 @foxnews [FOX 5 Atlanta youtube.com/@fox5atlanta](https://www.youtube.com/@fox5atlanta)
