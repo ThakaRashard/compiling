@@ -12,9 +12,7 @@ image: PIA01594.jpg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3hhoZt3YY?si=0x6lC3B4NibHVPbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-f_nyzmVLc?si=M-D8brRV6KmHtJ_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The Aranjuez Immaculate Conception is a c.1675 oil on canvas painting by Bartolomé Esteban Murillo.[1] It first appears in the written record in 1818, when it was in the royal chapel of San Antonio in the Palacio de Aranjuez in Madrid, after which it is named. It next appears in the queen's quarters in the same palace in 1827 and is now in the Prado Museum.[2]
@@ -125,17 +123,11 @@ NASA’s SpaceX Crew-10 Hatch Close
 Spacecraft Undocking and Return From Space Station with LIVE view from ISS
 @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl the undocking should start in 1 hour! @newshour according to [this feed ](https://www.youtube.com/watch?v=Azw7zSj8FFk) [Moter World https://www.youtube.com/@moterworld](https://www.youtube.com/@moterworld) 
 
-## DEFCON 33: Track 1 Talks
 @defcon @nasa @boeing @whitehouse [DEFCONConference](https://www.youtube.com/@DEFCONConference)
 [The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sslnkb4MnTg?si=LOMt2pAZbRFtPum2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## DEFCON 33: @DefconParrot
-Track 5 Talks 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3xggoCvQBIs?si=fGezaN6YhD-AKbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duhHk_Tnt0I?si=RbYFmTBSpWDYiefY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Azw7zSj8FFk?si=--ysSB6aBKobsiN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
