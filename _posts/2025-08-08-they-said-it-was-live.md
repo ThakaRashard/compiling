@@ -7,19 +7,7 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
-[Vatican](https://www.vatican.va/content/vatican/en.html) LIVE: [Angelus](https://www.ewtn.com/catholicism/devotions/angelus-383) with Pope Leo XIV  LIVE from [St. Peter Square](https://www.basilicasanpietro.va/en/san-pietro/the-square)  [Pope Leo's Sunday Mass](https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html)  N18G [@EWTNcatholictv](https://www.youtube.com/@EWTNcatholictv) August 10, 2025 [Angelus prayer](https://en.wikipedia.org/wiki/Angelus)- Pope Leo XIV
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3hhoZt3YY?si=0x6lC3B4NibHVPbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-The Aranjuez Immaculate Conception is a c.1675 oil on canvas painting by Bartolomé Esteban Murillo.[1] It first appears in the written record in 1818, when it was in the royal chapel of San Antonio in the Palacio de Aranjuez in Madrid, after which it is named. It next appears in the queen's quarters in the same palace in 1827 and is now in the Prado Museum.[2]
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg#/media/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg" alt="Inmaculada Concepción de Aranjuez.jpg" ></a><br>By <a href="https://en.wikipedia.org/wiki/en:Bartolom%C3%A9_Esteban_Murillo" class="extiw" title="w:en:Bartolomé Esteban Murillo"><span title="Spanish Baroque painter (1617–1682)">Bartolomé Esteban Murillo</span></a> - <a rel="nofollow" class="external autonumber" href="http://www.museodelprado.es/imagen/alta_resolucion/P00974.jpg">[1]</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17427205">Link</a></p>
-
----
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9505342f-cc46-4f2d-a745-a5f0812896d9" />
 
@@ -347,5 +335,22 @@ _24/7 Coverage of Breaking News and Live Events._
 
 [Live Monterey Bay Cam - Monterey Bay Aquarium](https://www.youtube.com/watch?v=fuCeRkeDxtQ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fuCeRkeDxtQ?si=iAvXOiLPMPGo8OjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @cityoflosangeles @stateofcalifornia this is something that needs warm bodies to organize [LiveCams]()... Inventory can keep [PeepingToms](https://www.robertmhelfend.com/criminal-defense/sex-crimes/peeping-tom/) at bay with its fast acting [VoyurismLaw](https://codes.findlaw.com/ca/penal-code/pen-sect-647/) 
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791529349701681152" data-did="cf0754309b7d0924415bef63ca0261957f9269c9"><a href="https://rashardmro.tumblr.com/post/791529349701681152/what-time-is-it-in-vatican-city">https://rashardmro.tumblr.com/post/791529349701681152/what-time-is-it-in-vatican-city</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+[Vatican](https://www.vatican.va/content/vatican/en.html) LIVE: [Angelus](https://www.ewtn.com/catholicism/devotions/angelus-383) with Pope Leo XIV  LIVE from [St. Peter Square](https://www.basilicasanpietro.va/en/san-pietro/the-square)  [Pope Leo's Sunday Mass](https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html)  N18G [@EWTNcatholictv](https://www.youtube.com/@EWTNcatholictv) August 10, 2025 [Angelus prayer](https://en.wikipedia.org/wiki/Angelus)- Pope Leo XIV
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3hhoZt3YY?si=0x6lC3B4NibHVPbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEM7a3mHMR4?si=KQF5z_0i7Bj_hZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+The Aranjuez Immaculate Conception is a c.1675 oil on canvas painting by Bartolomé Esteban Murillo.[1] It first appears in the written record in 1818, when it was in the royal chapel of San Antonio in the Palacio de Aranjuez in Madrid, after which it is named. It next appears in the queen's quarters in the same palace in 1827 and is now in the Prado Museum.[2]
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg#/media/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg" alt="Inmaculada Concepción de Aranjuez.jpg" ></a><br>By <a href="https://en.wikipedia.org/wiki/en:Bartolom%C3%A9_Esteban_Murillo" class="extiw" title="w:en:Bartolomé Esteban Murillo"><span title="Spanish Baroque painter (1617–1682)">Bartolomé Esteban Murillo</span></a> - <a rel="nofollow" class="external autonumber" href="http://www.museodelprado.es/imagen/alta_resolucion/P00974.jpg">[1]</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17427205">Link</a></p>
+
+---
 
 
