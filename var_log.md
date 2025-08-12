@@ -1,3 +1,10 @@
+---
+layout: default
+title: "/var/log"
+---
+
+
+<iframe src="https://archive.org/embed/super-mario-rpg-legend-of-the-seven-stars-snes" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNOAAResearch%2Fposts%2Fpfbid037Juq5m9845PehzAWDkuNbvhWcUaHCXSgt2qPnSJ9aoibweENcexPJUNXvekhc7Yvl&show_text=true&width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -556,3 +563,4 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
