@@ -5,10 +5,13 @@ published: true
 title: FireDataCleanup
 image: KL_Sun_UltraSparc.jpg
 ---
+
 ### hotlinks
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
+[@nasa Worldview](https://worldview.earthdata.nasa.gov/)
+
 
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
