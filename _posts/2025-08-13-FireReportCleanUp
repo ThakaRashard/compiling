@@ -1,0 +1,128 @@
+---
+layout: post
+mermaid: true
+published: true
+title: FireDataCleanup
+image: KL_Sun_UltraSparc.jpg
+---
+### hotlinks
+[USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
+[DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
+[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
+
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
+
+# cartography
+
+
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/firedata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
+![Start Of The Palisades Fire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png)
+
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+[Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
+Powerful Santa Ana winds and dry conditions contributed to the rapid spread of several brush fires in the county.
+[ReadMoreSeemORe](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) 
+
+[Palisades Fire reaches Brentwood, threatens San Fernando Valley @ktla youtube.com](https://youtu.be/DNkLoBtWFhA)
+
+![EatonFire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png)
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A view of the <a href="https://twitter.com/hashtag/EatonFire?src=hash&amp;ref_src=twsrc%5Etfw">#EatonFire</a> behind <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> Flight Projects Center. It feels like Armageddon around here <a href="https://t.co/pPWJ0B2rIB">pic.twitter.com/pPWJ0B2rIB</a></p>&mdash; Royce (@RobRoyce_) <a href="https://twitter.com/RobRoyce_/status/1877443901839069539?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+![Gg4FRxoWMAAZyje](https://github.com/user-attachments/assets/281bcf97-995d-4d21-844b-1ebe7906061a)
+
+[RelatedMetaFACEBOOK](https://www.facebook.com/permalink.php?story_fbid=pfbid022AsmhjApmWb1uyuCR4YyMn4UsmUmUb46U3RvtPDFetd6KQCxcBmE5Bk8eT145eBTl&id=100084464911565) 
+
+###
+[Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
+[ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
+
+![Palisades](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+
+![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+# Scanned Articles
+### EatonCanyon UpDates
+[files](https://archive.org/download/2marvoyagerneptune-simple-scan-station-20250703162827-19) :: [Wiki](https://en.wikipedia.org/wiki/Eaton_Fire) :: [TALK](https://en.wikipedia.org/wiki/Talk:Eaton_Fire)
+[How NASA’s Infrared Imaging Uncovered the True Extent of Eaton Fire Devastation](https://scitechdaily.com/how-nasas-infrared-imaging-uncovered-the-true-extent-of-eaton-fire-devastation/)
+
+<iframe src="https://archive.org/embed/2marvoyagerneptune-simple-scan-station-20250703162827-19" width="400" height="700" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+---
+# interruptions, blocks, confusion
+
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
+### DOXXED FOR THIS DATA
+
+🚫 Sorry, this post was removed by [Reddit’s filters](https://www.blackhatworld.com/seo/sorry-this-post-was-removed-by-reddit-filters-what-it-means.1576859/).
+
+<img  alt="DOXXED ON FACEBOOK AND REDDiT FOR THiS DATA" src="https://github.com/user-attachments/assets/c48f98da-1b79-488c-9358-05c5fde9a6e0" />
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+
+[https://svs.gsfc.nasa.gov/5568/](https://svs.gsfc.nasa.gov/5568/)
+Visualizations by:
+[https://svs.gsfc.nasa.gov/5558/](https://svs.gsfc.nasa.gov/5558/)
+
+[Zoey N. Armstrong](https://svs.gsfc.nasa.gov/search/)
+
+Visualizations by:
+
+[Cindy Starr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+
+    Scientific consulting by:
+
+[Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
+@nasa @cityoflosangeles @stateofcalifornia @atfweb
+
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="378"><a href="https://www.reddit.com/r/nasa/comments/1mbnt8i/spread_of_the_palisades_and_eaton_fires_january/">Spread of the Palisades and Eaton Fires - January 2025</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/nasa/">nasa</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2cc6009d-73c6-4c7b-b438-55ef52eb0d1f" />
