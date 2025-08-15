@@ -7,7 +7,7 @@ tags: jupiter europa live news
 image: PIA01594.jpg
 ---
 
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0o3cVJ7aWyGtXM35RvLcojbcgAGWzebhFjZb4SsYg2cPwW4SNNdPC8m4y9gLxd16l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9505342f-cc46-4f2d-a745-a5f0812896d9" />
 
