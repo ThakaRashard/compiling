@@ -78,6 +78,17 @@ img {
   
 }
 
+/* for .svg .png .gif with dark colors on transparent */
+
+.whitebg {
+           background-color:white;
+         }
+.blackbg {
+           background-color:black;
+         }
+.greenbg {
+           background-color:limegreen;
+         }
 
 p {
   text-shadow: whitesmoke 0px 0px 2px;
