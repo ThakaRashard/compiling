@@ -2,8 +2,7 @@
 layout: post
 mermaid: true
 published: true
-title: "Facebook-Destitution-Lobbying"
-image: ecostressjplnasagov-eco-booster.jpg
+title: "Sick Trees @StateOfCalifornia : @CityOfLosAngles"
 ---
 
 Sudden Cooling ? [gif](https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025%20AUG%2013-to-2025%20AUG%2025.gif)
