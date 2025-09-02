@@ -6,7 +6,7 @@ title: "Facebook-Destitution-Lobbying"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-Sudden Cooling ? 
+Sudden Cooling ? [gif](https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025%20AUG%2013-to-2025%20AUG%2025.gif)
 [GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1)
 <video controls >
   <source src="https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025AUG13-to-2025AUG25-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
@@ -18,6 +18,8 @@ Sudden Cooling ?
   <a src="https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025AUG13-to-2025AUG25-ezgif.com-gif-to-mp4-converter.mp4">MP4</a>
   video.
 </video>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid031XsdnKkzkwaREnRWhepTEaiG2QE4koewgZtSdQnEmsjEXmN2K2trFidzmgF6o91vl%26id%3D100084464911565&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mXgHs5o6UMVfNvpeDQGnMbvuvasKu8QzHP7MCqJwsgmZ7cAbhrNPcjufin4tFfGgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -100,6 +102,10 @@ pasadena
 
 ![Aviris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
-Aviris 
+Aviris [sounds @blackgirlscode](https://youtu.be/BwxSkmdHGM4?list=PLCX_SlmERpROeTsfMCTXxZzT2OrJR76wa&t=1402)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CwaZ6kEj28N4wuYk5BDpHD6Rv5pp3iTYjJ1cVAZ1WToF72Df9GppJSKNN18nV7Bsl%26id%3D100084464911565&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid027wdGKRmzMxhVdPc5Cm29LEMHtfq271XJLUMGpV7REznpBv9op6pBeKifvtQTqKeMl%26id%3D100084464911565&show_text=true&width=500" width="500" height="558" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0C1XAeQuM4zHMwujohjNXUB3JwmwrWwpHTfwjwEouUDt6V94QxEXuC2Bmjoq3rY8dl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
