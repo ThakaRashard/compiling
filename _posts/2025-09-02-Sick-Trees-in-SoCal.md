@@ -121,46 +121,12 @@ GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)
 This trio of Junocam views of Earth was taken during Juno's close flyby on October 9, 2013. 
 ![Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA14447.jpg)
 
-
-![NiH](https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/images/niehs-logo.svg)
-@NIHGOV hi its rashard from @nasa-jpl we took grabbed some images of [the fires here in Los Angeleles](https://svs.gsfc.nasa.gov/5568/) and our latest scan shows snowlike buildup and we need to understand the implications @nasa-pds @podaac @stateofcalifornia @cityoflosangeles im not harrassig the fire dept, im Just figuring ut if its bad for us at all long term - [MyData](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
-
-
-<img width="275" height="538" alt="image" src="https://github.com/user-attachments/assets/56c7254b-38d1-4058-8005-ebe256cf4761" />
-
-
-<img alt="image" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png" />
-<img alt="image" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png" />
-
-# NOAA Decomm ? 
-![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
-
+# NOAA Decomm
 #### ["_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_**](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUdYBleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR6IQzec4krNbu-xceYkDD_kKohdttMvR4pr_iApGwp7oUI1LFj_-b4pWo7GdA_aem_OPRqBaBTukvStkYRclaOvg)
 @noaa i saw an article titled "_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_** [FULLARTiCLE`LinK`](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUcOhleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR7h3dRIKjzt-ArdVKEVmQmkO64bvYIa4YGnKSWH6xnAIhWxDsASnGUP_SWJPg_aem__Mxh1K4hdRJgzpstAjSCAA), @nasa-jpl that was yesterday and [DeepSpaceNetwork](https://eyes.nasa.gov/apps/dsn-now/)_[HelpDesk](https://x.com/thakasartu/status/1931030520860954828) is still [NSN](https://www.nasa.gov/near-space-network/) we even share the tool [SCaN Now](https://scan-now.gsfc.nasa.gov/scan) so if theres hardware that makes random pop ups and it stops i need to know im still working my inventory task from Charles Bolden and Jamie mantel @deptofdefense @nasa-pds @nasa-jpl @nasa and want to make sure everyone is on the same page with the Decomms . I left responses on [@meta Facebook](https://www.facebook.com/profile.php?id=100084464911565) but idk who see them, usually a woman with a lot of power and i still dont trust it... 
 what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pfbid0CKXur6CYpKv2rQZT2HU6mtgJFJM9uLLTobkktveGMBuW8xn56PWzETxiGp6emRr8l&id=100084464911565) [AirBus Boat](https://www.facebook.com/permalink.php?story_fbid=pfbid02WzgLUAQEo1825eSHrgdu7KR71RTufrqKujYxBTuCyEXqRZR44Z78r1AvrJ8Nv2REl&id=100084464911565) [JPSS](https://www.facebook.com/permalink.php?story_fbid=pfbid024FMDjGPfJfDszJkkgBmSRk8pMNZNgCESfenjotUk1HFF6b1rCN8bQaM8U3rKePHRl&id=100084464911565)
 
 [FacebookPostReads](https://www.facebook.com/permalink.php?story_fbid=pfbid02F2FS8vz5SAhPNsdNGdZoE5DFdMtNaKq1cYX7smuapBFZJwkDcXyV4ggPLHwBiBXil&id=100084464911565)  i dont want to get dinged for neglecting equipment. If this equipment is #Decommed2025 what does it mean for maintenace and tracking ? Who will bring the units back to earth ?
-
-# POES
-Polar Operational Environmental Satellite (POES)
-The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites. @NASA-GISS @nasa-pds @blackgirlscode 
-
-<img alt="image" src="https://github.com/user-attachments/assets/831ece38-b5e7-4913-8659-39ef11a79e95" />
-
-
-
-
-
- SCaN Now! Space Communications and Navigation (SCaN) [LiNK](https://scan-now.gsfc.nasa.gov/)
-<img  alt="SCaN Now! Space Communications and Navigation (SCaN)" src="https://github.com/user-attachments/assets/cbe78e1c-a9ec-4705-84db-7848e0a5b9b1" />
-
-
-## Television Infrared Observation Satellite Program
-Launch
-# TIROS-1: April 1, 1960
-The TIROS Program (Television Infrared Observation Satellite) was NASA's first experimental step to determine if satellites could be useful in the study of the Earth. [LiNK](https://science.nasa.gov/mission/tiros/)
-
-<img width="168" height="189" alt="image" src="https://github.com/user-attachments/assets/b346b0bd-159d-47be-b788-9b780eb534ca" />
 
 
 <a href="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp"><img src="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp" style="width:228px;height:228px;" /></a>
@@ -291,122 +257,5 @@ Missions Enabled https://www.nasa.gov/communicating-with-missions/ [LinK](https:
 <img  alt="downtown los angeles graffiti @DonaldTrump @whitehouse @nasa @nasa-pds @nasa-jpl @atfweb @dhs-gov" src="https://github.com/user-attachments/assets/4a6799a0-3812-402a-864c-0c10b64e167d" />
 
 
-
-<style>
-.whitebg {background-color:white;}
-</style>
-
-## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
-
-<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
-
-![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
-
-[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
-
-# Viking 1
-The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](https://www.mid.ru/en/main_en) Mars, Viking 1 was part of [a](https://www.esa.int/Education) two-part mission to investigate the Red Planet and search for signs of life.
-
-## Viking Lander 1 EDR Image Browser
-[Browse Image Directories](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/index.htm)
-![a0xx/12a010b4.gif](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/image/a0xx/12a010b4.gif)
-
-# Mars Relay Network 
-[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
-<object data="https://eyes.nasa.gov/apps/solar-system/#/home" width="100%" height=400px ></object>
-<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
-# Deep Space Network Now @nasa-jpl
-![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
-
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
-    </object>
-
-# The Global CTX Mosaic of Mars
-[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
-
-
-@nasa-jpl 
-[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build! ... https://gis.earthdata.nasa.gov/portal/home/index.html [NASA Earthdata](https://gis.earthdata.nasa.gov/portal/home/index.html) Congressmember Karen Bass imma make some notes on my workblog an see what i can do for County of Los Angeles
-
-- [4later gta5](https://www.rockstargames.com/gta-online) 
-
-<video controls  width="auto" height="400">
-   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
-
-  <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
-
-
-</video>
-
-
-
-# Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
-[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
-
-![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02cyl11p1003l000m2.img.jpg)
-![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
-![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02per11p1003l000m2.img.jpg)
-![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02per11p1003l000m2.img.jpg)
-![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02pol11p1003l000m2.img.jpg)
-![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m2.img.jpg)
-![Spirit @nasa-pds](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m3.img.jpg)
-![@whitehouse @stateofcalifornia](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0003/2ff015eff03per27p1214l000m2.img.jpg)
-![Spirit May25](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/navcam/site0138/2nnl48ilfb2cypgxp1705r000m1.img.jpg)
-
-## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
-[Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
-## Being Legit on a Dark Web social Network
-[Doc @nasa](https://ieeexplore.ieee.org/document/8544235) 
-
-
-### Summary of how NASA is getting affected ? - [r/NASAJobs/+u/ethicallobotomy/](https://www.reddit.com/user/ethicallobotomy/)
-Hello!
-
-Would someone be able to summarize how NASA is being affected by this administration and how uncertain its future is? I’m having a hard time explaining to my family how science is essentially being attacked right now. I’m so sorry to all the employees being affected by the govt. also, yall have all my love.
-
-<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1lynylu/summary_of_how_nasa_is_getting_affected/">Summary of how NASA is getting affected</a><br> by<a href="https://www.reddit.com/user/ethicallobotomy/">u/ethicallobotomy</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-
-you are looking at it the wrong way! We have a lot of [equipment to maintain](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html#LA_fires)! here in [LosAngelesCounty](https://lacounty.gov/) u/Nasa #jpl theres [old work](https://eyes.nasa.gov/apps/mrn/#/mars) turing out new [results](https://ieeexplore.ieee.org/document/10521332/) all the time! https://www.axiomspace.com/mission-blog/ax4-splashes-down the axiom mission was still built on ranger9! and that crashed but voyager did not! And the hardware is still producing results, radio is forever, at least until it smashes into a rock https://www.nas.nasa.gov/  + https://eyes.nasa.gov/apps/dsn-now/ = alot of work for someone humble enough not to touch anything! Im an engineer by EastCoast Corporate definition but Helpdesk here and i love it, its like spaceforce where you are challeneged to work the community using the equipment to get a paycheck recommended... no felatio involved! #iLOVEiT! -Rashardkelly NAsaMars #GROUNDDATASYSTEMS iss_Research_ECOSTRESS!+[#SWOT! https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/mission/overview/) /] https://pace.gsfc.nasa.gov/
-
-`ping -c 2 whitehouse.gov`
-
- [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
-
-[@blackgirlscode](https://open.spotify.com/track/1aALf03O95C49gY3eti3Fd?si=4ILYkEKTRNiFwORRNARR2g)
-[ParkErSpaceProbe](https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?rate=1&time=2024-12-24T11:27:38.887+00:00)
-
-
-
-### [Heavy Metal - 1981](https://archive.org/details/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify) 
-[4later](https://svs.gsfc.nasa.gov/20405/)
-
-<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-# Rashard Kelly NasaJpl MRO JUNO iSS
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
-![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
-
-
-
-
-
-# [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
-![image](https://github.com/user-attachments/assets/816203b5-c6f0-4046-b3f8-a75ec39a6614)
-![image](https://github.com/user-attachments/assets/3528ab5b-0716-48b1-ae98-d61931d21a10)
-
-@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
-[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
-
-
-# Europa Clipper Camera Passes First Test in Space
-Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
-
-Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
-
-![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
 
 
