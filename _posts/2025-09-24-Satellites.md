@@ -8,6 +8,7 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 ### Resources 
+[Mars](https://an.rsl.wustl.edu/m20/AN/an3.aspx) 
 [Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
 Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4) ::: [advisio](https://mobile.aviso.altimetry.fr/en/home.html)
