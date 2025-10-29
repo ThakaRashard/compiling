@@ -1,4 +1,7 @@
 
+# California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 
 The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
@@ -628,4 +631,5 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
 
