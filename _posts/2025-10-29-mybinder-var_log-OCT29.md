@@ -2,6 +2,23 @@
 # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+
+
+# Trainiing [repo @emit-sds](https://weather.ndc.nasa.gov/sport/training-repo/) @cityoflosangeles @newshour 
+[RGB MApping NaturalColor @blackgirlscode](https://weather.ndc.nasa.gov/sport/training/interactiveQG/NatColorRGB/presentation_html5.html?fbclid=IwY2xjawN8xIdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNNKghgy7MXz6eKbML5O4ldiKnCpnR5IMY2B6zVCMj8YTyn1ZQzbzThhpfpg_aem_zXwIzOrZ8CB3uupPIpiAgQ) [nasa sport viewer](https://weather.ndc.nasa.gov/sport/training-repo/?fbclid=IwY2xjawN8xClleHRuA2FlbQIxMABicmlkETAwMlRKaHpjSDYxU3dqNmVqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlzJrB9cL9EmXsRXeaHwpb-bn7C4Jv0zp8CtpVGaCBWYDdqR6XZ49shHkLIa_aem_ZaDcU9OTu4vbUaFd1CmaKQ#/Natural-Color-RGB-(Interactive-Quick-Guide)) 
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 
 The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
@@ -631,5 +648,6 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
 
 
