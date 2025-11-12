@@ -17,7 +17,7 @@ comment : @#marinecoders
 ```
 @nasa-jpl @nasa-pds @cityoflosangeles 
 
-its because of Dwanye Gooodens behavior with prostitution and making me lose my child, like i dont know if he has a sexual relationship with a minor, its that scary @emit-sds 
+its because of [Dwanye Gooodens behavior with prostitution](https://cloud.google.com/find-a-partner/partner/ionic-security) and making me lose my child, like i dont know if he has a sexual relationship with a minor, its that scary @emit-sds 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPOTUS%2Fvideos%2F1486313582601627%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 @whitehouse 
