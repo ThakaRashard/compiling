@@ -10,7 +10,7 @@ image: PIA01594.jpg
 
 
 # @USnavy 
-comment : @#marinecoders
+comment : @marinecoders
 
 ```
 #JACKO do you have an issue with #Nasa? House of Representatives (United States) Jasmine Crockett Mayor Karen Bass Kamala Harris i dont think these ppl normal with me at a leadership level so i dont have a lot of things i think should be natural, Kimberly Bryant, Founder Black Girls CODE Goldstone Deep Space Communications Complex International Space Station 
