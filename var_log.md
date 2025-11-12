@@ -1,7 +1,68 @@
 ---
 layout: default
 title: "/var/log"
+permalink: /var/log
 ---
+
+
+<iframe src="https://archive.org/embed/Keen4e-sw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+
+
+[Don't keep activities - What is it for? - stackoverflow.com](https://stackoverflow.com/questions/22400859/dont-keep-activities-what-is-it-for)
+
+
+[Rescuing a satellite stranded in space - 13 Minutes Presents: The Space Shuttle, BBC World Service - @bbc @youtube @nasa-jpl JUNO MiSSiON](https://www.youtube.com/watch?v=DCgfgLnDZJw)
+[Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
+![jupiter @blackgirlscode voyager2](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
+
+[Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/) pia14447-earth-triptych [image](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/)
+This trio of Junocam views of Earth was taken during Juno's close flyby on October 9, 2013. 
+![Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA14447.jpg)
+
+# California_Linux: Ecostress annual review cram prep + report
+[Planetary Mission Support List - nssdc.gsfc.nasa.gov/planetary/projects.html](https://nssdc.gsfc.nasa.gov/planetary/projects.html)
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## [Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) 
+(MEPAG) [November 2025](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4) Meeting
+Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
+[@nasa-pds](https://github.com/nasa-pds) @[nasa-jpl](https://github.com/nasa-jpl) 
+Name
+Mr. Rashard Iman "Rashard" Kelly
+Company NASA: Jet Propulsion Laboratory LaCounty
+Country United States
+Telephone (818) 354-4321
+Email holetoanotheruniverse40@gmail.com
+ADA Special Needs ucla put some thing in my ankle that feels like a magnet... i gotta study more idk the probability of doom...
+Civil Servant non-NASA U.S. Govt. employee
+Registration Type Professional Virtual Registration
+Amount b$0.00 Your badge will appear as:
+
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+```
+Rashard
+Kelly
+
+NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4)
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4d01be0f-799b-44c8-9e0c-5074f1108373" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
+
+# CellularTestamonials
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive) _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0) [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+ [#Typography](https://mksd.jp/mksd_font_list.html) [Android Swap Space ?](https://docs.libretro.com/) 
+[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
+Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space. In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
 <iframe src="https://archive.org/embed/super-mario-rpg-legend-of-the-seven-stars-snes" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -563,4 +624,5 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
 
