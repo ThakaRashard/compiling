@@ -1,3 +1,19 @@
+
+
+## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
+Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
+
+
+
+# Eaton Fire aerial footage around Altadena
+<img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
+
+<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
+
+`https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
+
 [<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
 
 
@@ -20,21 +36,8 @@ I found a directory with what looks to be a vegitation index starting in 1981, l
 <img alt="image" src="https://github.com/user-attachments/assets/8b2f8e85-3100-468a-a8d4-29f98fa13ac2" />
 
 
-## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
-Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
-
-
-![@blackgirlscode emit-sds @cityoflosangeles it's an ecostress observation @usgs](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.11.04/BROWSE.MCD19A1CMGO.A2025306.061.2025308042622.1.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
-
-`https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
 {% include BOARDHEARINGTUESDAYNOVEMBER420251100AM.md %}
 
-# Eaton Fire aerial footage around Altadena
-<img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
-
-<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
 
 [<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw)
 
@@ -47,3 +50,4 @@ by [U.S.](https://www.dds.mil/) Treasury Department [archive](https://archive.or
 
 <img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/e636d6e7-91f2-4cd4-a10c-39b557437199" />
 
+![@blackgirlscode emit-sds @cityoflosangeles it's an MODiS observation @usgs](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.11.04/BROWSE.MCD19A1CMGO.A2025306.061.2025308042622.1.jpg)
