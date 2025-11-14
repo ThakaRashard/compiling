@@ -5,15 +5,27 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
+
+`https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
+{% include BOARDHEARINGTUESDAYNOVEMBER420251100AM.md %}
+
 # Eaton Fire aerial footage around Altadena
 <img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
 
 <video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
 
-`https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">
+ <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">	 
 
+</video> 
+
+Watch on YOUTUBE 
+[ClickHere @emit-sds @theSpaceDevs @blackgirlscode](https://www.youtube.com/watch?v=0zbfPlj3d44)
+130,527 views  Jan 8, 2025
+The Eaton Fire burning north of Pasadena has burned about 1.6 square miles.  Aerials around La Canada, Flintridge, and Altadena. Video from KABC, Jan. 8, 2025. @StateOfCalifornia @NOAA-OWP
+@blackgirlscode Read more: [https://www.abc10.com/article/news/lo](https://www.abc10.com/article/news/local/wildfire/where-wildfires-are-los-angeles-county-wildfires/103-e9e6178d-412a-4759-94dd-c8ba97a2398d)...
 [<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
 
 
