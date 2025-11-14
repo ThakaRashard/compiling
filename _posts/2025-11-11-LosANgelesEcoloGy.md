@@ -7,7 +7,9 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at <a href="https://t.co/yscOR5I3ys">https://t.co/yscOR5I3ys</a> <br><br>Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA. <a href="https://t.co/Wjn02jlSyA">pic.twitter.com/Wjn02jlSyA</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1877088825383460977?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+@TheSpaceDevs @BlueOrigin @NASA-PDS  -- @STATEOFCALiFORNiA @CiTYOFLOSANGELES @BLACKGiRLSCODE  
 ## EcoStress HeatMAp 
 
 [DOWNLOAD_PDF:lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
