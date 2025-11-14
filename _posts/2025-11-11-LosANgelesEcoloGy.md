@@ -7,6 +7,18 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
 
+
+## EcoStress HeatMAp 
+
+
+[KMZ @google @stateofcalifornia](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz) 
+[GoogleMaps @nasa-jpl @blackgirlscode](https://earth.google.com/web/@33.97546243,-118.21866348,46.7908069a,121182.25139954d,30y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASggI2cjE5QEQAA)
+
+<img  alt="image @google" src="https://github.com/user-attachments/assets/50ea44d1-a3e1-4d27-8859-1bdc34f8dcad" />
+
+
+![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
+
 `https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
 {% include BOARDHEARINGTUESDAYNOVEMBER420251100AM.md %}
 
