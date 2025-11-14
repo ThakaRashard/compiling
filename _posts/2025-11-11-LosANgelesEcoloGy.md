@@ -431,9 +431,6 @@ NASA's Physical Oceanography Distributed Active Archive Center (PO.DAAC) and Jet
 [Caltrans Encampment Resource Network Tutorial](https://www.youtube.com/watch?v=wIk3gRsaSuI) + [MAP @cagov](https://quickmap.dot.ca.gov/) [culvercity.gov @stateofcalifornia `Encampment Resolution`](https://www.culvercity.gov/Services/Housing-Homeless-Human-Services/Homeless-Reporting-Dashboard/Encampment-Resolution) [stream eosdis.nasa.gov](https://ladsweb.modaps.eosdis.nasa.gov/stream/)
 
 
-{% include BOARDHEARINGTUESDAYNOVEMBER420251100AM.md %}
-
-
 [<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw)
 
 My Japan
