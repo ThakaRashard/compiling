@@ -26,6 +26,138 @@ date:   2025-10-09 8:51:06
 
 </video> 
 
+[January 8th 2025 Formaldehyde (HCHO)](https://browser.dataspace.copernicus.eu/?zoom=11&lat=34.02677&lng=-118.49133&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX196Emnj9aFIDONOPrSkNLylsCza32OUFefVJ64hJNBD5RS8kRDWldz0WVXdPSJvNXXJb87xfpqbQ%2Bqp%2B8gEHfrTHeIbgct0qj51OKr%2FdrbtHFyE7HBtrF1H&datasetId=S5_HCHO_CDAS&fromTime=2025-01-08T00%3A00%3A00.000Z&toTime=2025-01-08T23%3A59%3A59.999Z&layerId=HCHO_VISUALIZED&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img alt="image" src="https://github.com/user-attachments/assets/b7ba4c09-7b70-4797-95d3-e866ecdafec1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/f8808bd9-929f-4f54-9707-40681fe74b1e" />
+
+Time Averaged Map of HCHO column amount daily 0.1 deg. [OMI OMHCHOd v003] molecules/cm^2
+over 2025-01-01 - 2025-01-31
+
+<img alt="GIOVANNI-output2hQt0RlE" src="https://github.com/user-attachments/assets/c05f8fc6-7b21-483e-8f16-f3070540dad9" />
+
+ime Averaged Map of Aerosol Single Scattering Albedo 483.5 nm daily 0.25 deg. [OMI OMAEROe v003]
+over 2025-01-01 - 2025-01-31
+
+<img  alt="GIOVANNI-outputVL3Fgam1" src="https://github.com/user-attachments/assets/46c1817b-55b6-4f68-9635-7e7b86b13582" />
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+@BlackGirLSCode Who is Brandy?########
+{% endhighlight %}
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
+2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
+3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
+{% endhighlight %}
+
+
+[Upclose](https://vsco.co/earthdatarashard/media/686a748c0e2480255cc4a179?share=MTc1MTgwNzEyMA%3D%3D&fbclid=IwY2xjawOMn59leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR54xeWX4cPqjN5OryMDgnmnijFxkd60YLti3x-MFfaQEidx5Jabu9v3dqKjqg_aem_yq5mqVEsbyAErEXlGiJzdw&link_name=rashardsartu&source_caller=sdk&pid=app-image-share&shortlink=yk1guxps&af_referrer_customer_id=25249&deep_link_value=vsco%3A%2F%2Fuser%2F322138837%2Fgrid%2F686a748c0e2480255cc4a179%3Fmedia_type%3Dimage&af_channel=app-image-share&af_siteid=com.vsco.cam&c=other&af_referrer_uid=1762498878112-3757649393525948555) / [Scene](https://vsco.co/earthdatarashard/media/686a7491b6e121449b0cd851) @vsco @emit-sds [@NASA-DEVELOP](youtube.com/watch?v=0zsMg7gkC6Y&themeRefresh=1) [MALiBU @CityOfLosangeles StateOfcalifornia](youtube.com/watch?v=0zsMg7gkC6Y&themeRefresh=1) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5f0760db-0d97-401a-9dd2-c83b4965bc94" />
+
+
+[Copernicus](https://rashardnasalosangelesjpl.github.io/2025/11/20/NasaFireReport-nov18.html?fbclid=IwY2xjawOMsCBleHRuA2FlbQIxMABicmlkETBKR2VUTmVrZGt2NHI3WWtCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj2dNr7zaSgEqUWFA_IcPpB_hQr4Ojr0dXjZraR_9Hk3MSmUJlGtNeLM_S0u_aem_CwUa63JvcJjok6msipq1YA)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6a405154-79d2-4e9b-9fff-272097c697d2" />
+
+
+<video controls  width="auto" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7c280688-7946-40be-b537-1649e900f5f6" />
+
+{% highlight python %}
+2 # ### How Wildfire looks across the continent ##############
+3 # ANOTHER########`BrandyNorwood @BlackGirlsCode `Production#
+{% endhighlight %}
+
+[+ @cityoflosangeles DEC 23-to-2025 JAN 14 FireActiity @stateofcalifornia .gif DOWNLOAD](https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024%20DEC%2023-to-2025%20JAN%2014.gif) @nasa-jpl @emit-sds @TheSpaceDevs @BlueOrigin @r-spacex @NOAAgov
+
+<video controls  width="auto" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2021JUL15-to-2021JUL301-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2021JUL15-to-2021JUL301-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+## EatonCanyon
+the mushy part is the burned property 
+[MAP @emit-sds @blackgirlscode](https://ladsweb.modaps.eosdis.nasa.gov/stream/map?fbclid=IwY2xjawOMnSdleHRuA2FlbQIxMABicmlkETAwSXZtWGFDa01STXdNVjdVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHggULxKKFIa5HI45xUdLoAPP_UX_PFG07XFonam8kxVmzdSkv8wz1QTKE9jU_aem_Y0XfASbU01QpdyNbdKYTJA#map=12.66/-13142008.56/4053000.61)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78211215-c9cf-494f-85f0-8d949af9f319" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0626984b-bb1d-4777-89b1-59ce99d3d17c" />
+
+
+[Copernicus](https://rashardnasalosangelesjpl.github.io/2025/11/20/NasaFireReport-nov18.html?fbclid=IwY2xjawOMsCBleHRuA2FlbQIxMABicmlkETBKR2VUTmVrZGt2NHI3WWtCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj2dNr7zaSgEqUWFA_IcPpB_hQr4Ojr0dXjZraR_9Hk3MSmUJlGtNeLM_S0u_aem_CwUa63JvcJjok6msipq1YA)
+
+![@StateOfCAlifornia](https://dn710104.ca.archive.org/0/items/n-02-e-016.-srtmgl-1.2/AV320250111t210400_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
+
+## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
+Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
+
+
+
+[EATON CANYON TODAY](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.05/-13149085.12/4055189.30)
+<img  alt="image" src="https://github.com/user-attachments/assets/b598d1c6-f834-468a-8ade-e0a12695e695" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at <a href="https://t.co/yscOR5I3ys">https://t.co/yscOR5I3ys</a> <br><br>Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA. <a href="https://t.co/Wjn02jlSyA">pic.twitter.com/Wjn02jlSyA</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1877088825383460977?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+[Plan a Scan](https://aviris.jpl.nasa.gov/)
+![AViriS](https://dn710104.ca.archive.org/0/items/n-02-e-016.-srtmgl-1.2/AV320250111t213547_005_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) 
+
+![AViris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+
+@TheSpaceDevs @BlueOrigin @NASA-PDS  -- @STATEOFCALiFORNiA @CiTYOFLOSANGELES @BLACKGiRLSCODE  
+## EcoStress HeatMAp 
+
+[DOWNLOAD_PDF:lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+[KMZ @google @stateofcalifornia](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz) 
+[GoogleMaps @nasa-jpl @blackgirlscode](https://earth.google.com/web/@33.97546243,-118.21866348,46.7908069a,121182.25139954d,30y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASggI2cjE5QEQAA)
+
+<img  alt="" src="https://github.com/user-attachments/assets/50ea44d1-a3e1-4d27-8859-1bdc34f8dcad" />
+
+
+![LOSANGELES](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png)
+
+
+
+# Eaton Fire aerial footage around Altadena
+<img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
+
+<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">
+ <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">	 
+
+</video> 
+
+Watch on YOUTUBE 
+[ClickHere @emit-sds @theSpaceDevs @blackgirlscode](https://www.youtube.com/watch?v=0zbfPlj3d44)
+130,527 views  Jan 8, 2025
+The Eaton Fire burning north of Pasadena has burned about 1.6 square miles.  Aerials around La Canada, Flintridge, and Altadena. Video from KABC, Jan. 8, 2025. @StateOfCalifornia @NOAA-OWP
+@blackgirlscode Read more: [https://www.abc10.com/article/news/lo](https://www.abc10.com/article/news/local/wildfire/where-wildfires-are-los-angeles-county-wildfires/103-e9e6178d-412a-4759-94dd-c8ba97a2398d)...
+
 AVIRIS-ng 2025Wildfire
 [arcgis 2025fire](https://gis.earthdata.nasa.gov/portal/home/group.html?sortField=title&sortOrder=asc&id=28d7f98c410f4b2b9abfe89a755ce162#content) 
 [palisades @esri](https://gis.earthdata.nasa.gov/portal/home/item.html?id=d5cfe94588854455a443980c5bd52e3a) [portal of disaster](https://disasters-nasa.hub.arcgis.com/)
@@ -1169,6 +1301,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
