@@ -12,6 +12,68 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+[comment]: <> (Emergency Files )
+
+### Los Angeles County
+
+Tink - Fake Love [watch](https://youtu.be/FSlFD6DnxeQ?list=RDFiGAkDE7s7o)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/90c8f0c4-c7de-4c97-8102-e37f6df8d6f3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88f88311-9170-42dc-afaa-6d06e0060cd8" />
+
+
+<img  alt="2025-12-08-00_00_2025-12-08-23_59_Sentinel-2_L2A_False_color (1)" src="https://github.com/user-attachments/assets/bde3f74e-fb61-4537-ac4e-fef4ea04a844" />
+
+<img alt="2025-12-08-00_00_2025-12-08-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/e025bc2d-4775-4d34-9090-9494ce36ef23" />
+
+the coast looks cleaner @stateofcalifornia @cityoflosangeles 
+<img  alt="image" src="https://github.com/user-attachments/assets/fa8d71f3-8f4b-4a5b-8594-7a11a74179e1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/c31a2f2c-c425-4072-bbb6-216877afc438" />
+
+NASA's Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR), a reconfigurable, polarimetric L-band SAR, is specifically designed to acquire airborne repeat track SAR data for differential interferometric measurements. Differential interferometry can provide key deformation measurements, and is important for studies of earthquakes, volcanoes, and other dynamically changing phenomena.
+![EatonCAnyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_006_250930_L090_CX_01/crparc_09118_25032_006_250930_L090_CX_01.gif?fbclid=IwY2xjawOlk7ZleHRuA2FlbQIxMABicmlkETBEY3dQbkJjeUdFRWNlUU9Gc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlDtNQUvD6ZJX-tmlaOdNeILHayWaw7KdF5S2ct2XIlY9fr14DYt5DS4mjOU_aem_8WvMLtGJZVfZsUfQIaJBDQ)
+
+
+Map of California Subsidence and Uplift
+Scientists mapped land sinking (indicated in blue) in coastal California cities and in parts of the Central Valley due to factors like soil compaction, erosion, and groundwater withdrawal. They also tracked uplift hot spots (shown in red), including i... Credit: NASA Earth Observatory
+
+![californis land motion](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25530.jpg)
+
+### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
+July 21, [2025](https://youtu.be/4abP93C1MAU) 
+
+The heat lingered into the evening hours, as captured by NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station ( [ECOSTRESS](https://ecostress.jpl.nasa.gov/) ) instrument. - [read](https://www.jpl.nasa.gov/images/pia26651-nasas-ecostress-captures-short-lived-heat-wave-in-la-area/) 
+
+![jpegPIA26651](https://github.com/user-attachments/assets/01f68834-d643-4107-9acc-b40f5b41988c)
+
+NASA’s UAVSAR airborne radar instrument captured data in fall 2024 showing the motion of landslides on the Palos Verdes Peninsula following record-breaking rainfall in Southern California in 2023 and another heavy-precipitation winter in 2024. Darker red indicates faster motion. Credit: NASA Earth Observatory [read @nasa-jpl](https://www.jpl.nasa.gov/news/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/)
+
+![Landslidevelosity](https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26495-PV_landslides.width-1320.jpg) @CityOfLosAngeles
+
+Regular City Council - 12/9/25 [watch](https://youtu.be/3D5MrlaPBkQ)
+Climate Resilience Districts
+Overview and Approach [PDF](https://rcpa.ca.gov/wp-content/uploads/2024/10/County-of-Los-Angeles-Climate-Resilience-Districts-Report-2024.pdf)  ::::::::: SMART_LA [PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)  / How Will LA Look in 2028? A Look at the City's Plan To ... [pdf](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf)  @cityoflosangeles @emit-sds [smartla](https://ita.lacity.gov/smartla2028) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/42d6b2f9-8f72-4c66-83f8-0ec799a1e7c9" />
+
+Aquatic Report [LinK @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.67/-13147350.80/3999217.77&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) [inland glendale / hollyrock](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.11/-13158609.97/4049796.63&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [The Palisades](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.26/-13195663.95/4034960.19&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [Eaton Canyon](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.10/-13151400.61/4054694.41&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0)   @nasa-jpl @blackgirlscode @datadesk @stateofcalifornia @cbs-news-data @COBIS-HU hi latrice i cant look at tick tok yet im not ready for the news 
+@CityOfLosAngeles @StateOFCalifornia @BlacakGirlsCode there is some way to get [ms mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) and [Mayor Bass](https://yandex.com.tr/gundem/entertainment/los-angeles-belediye-baskani-yanginlar-surerken-gana-gezisinden-donmedigi-icin-elestiriliyor-943710) to see this link. They are really into climate data here [Ms Hahn](https://lacounty.gov/government/board-of-supervisors/janice-hahn/) too @nasa-jpl
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/26259a23-d2a6-4dd5-85a9-f83f6a6101ed" />
+<img  alt="image" src="https://github.com/user-attachments/assets/61800d91-8ad0-4036-93c7-d23d928a4ae2" />
+<img  alt="EATON CANYONE" src="https://github.com/user-attachments/assets/095fd1db-01e0-4d3c-a819-f2886b015257" />
+
+
+inducis
+[California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/) [Los Angeles on Weather-gov](https://www.weather.gov/lox/) [Weather-gov api @blackgirlscode](https://www.weather.gov/documentation/services-web-api) [api GitHub](https://weather-gov.github.io/api/)
+
+# CryosPhere
+<img  alt="image" src="https://github.com/user-attachments/assets/9882be58-faab-488a-8caf-ce8aac1d9a7f" />
+
 # CryosPhere\
 <img  alt="image" src="https://github.com/user-attachments/assets/9882be58-faab-488a-8caf-ce8aac1d9a7f" />
 
