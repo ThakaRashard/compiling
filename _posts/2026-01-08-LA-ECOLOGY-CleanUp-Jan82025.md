@@ -11,6 +11,129 @@ date:   2026-01-08 8:51:06
 ---
 
 Regular City Council - 1/13/26 [link](https://youtu.be/MNNPKGztZSQ)
+Regular City Council - 1/13/26 [link](https://youtu.be/MNNPKGztZSQ)
+<img   alt="image" src="https://github.com/user-attachments/assets/6bb6ded3-7cf2-43d8-b950-2d2b66f8fea0" />
+
+[Anthony J. Misetich](https://www.mcnerneysmortuary.com/obituaries/Anthony-Jack-Misetich?obId=46777654)
+[Rev Dr William S Epps](http://www.secondbaptistchurchla.org/pastor.html)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4c67f430-e85f-4396-a84f-abcb9082c370" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/02f147c7-7e23-44ba-aa85-d384419ee0e0" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/94120ff6-d72a-40e6-a1ed-b2afd5617314" />
+
+@nasa-jpl @ersi i like it [LongBeach](https://arcg.is/Ty4i91)
+![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
+
+
+[https://www.fabledcollective.com/category/dark-history/page/3/](https://www.fabledcollective.com/category/dark-history/page/3/) savannah history
+# Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
+[taken from ricothaka/civic](https://thakarashard.github.io/ricothaka/civic)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL))
+[![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+Hi, Its Rashard from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
+
+it reads 
+
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+ [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+
+![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
+![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
+LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
+
+
+<img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
+
+
+The Webb Telescope Traveling Through [Los Angeles](https://digitallibrary.usc.edu/) to Navy Yard B-roll
+Released Thursday, October [21+](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-the-central-library), 2021
+
+[webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
+[Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Traveling_Through_LA_SS_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Move_to_Navy_Base_1DX_LA_Footage_A_H_264.mp4" type="video/mp4">	 
+
+</video> 
+
+[B-Roll](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/897098/Yard/) footage of the Webb Telescope inside the [protective](https://www.dvidshub.net/video/897098/navsea-memorial-b-roll-package) transport container traveling through the city of Los Angeles to get to the Navy base at [Seal Beach, CA.](https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Southwest/Seal-Beach-NWS/Site-Descriptions/)
+
+### Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this telescope overcame all odds. [Watch on @Nasa+](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) , [Youtube](https://www.youtube.com/watch?v=uSMGENDH_QI)or below @cityoflosangeles [KarenBass](https://search.yahoo.com/search?p=gavin+newsom+karen+bass+california+homeless&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1) @stateofcalifornia [GavinNewsom](https://nypost.com/2025/01/09/us-news/bass-newsom-ignored-past-warnings-about-la-wildfires/) @nasa-pds 
+<video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/Cosmic_Dawn_Thumbnail_print.jpg" > 
+	
+ <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" type="video/mp4">	 
+
+</video> 
+
+California Fires without Fire Pixels
+Oct 29, 2003 [ClickHere](https://svs.gsfc.nasa.gov/2847)
+The Palisades and Eaton Fires, Los Angeles, California
+Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A platform.
+[Comparison MAps @nasa-jpl EarthDataSquad](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california)
+
+![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
+[ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
+<img  alt="image" src="https://github.com/user-attachments/assets/eb320a28-bd90-4be6-8af1-4c6a45a32fb8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/43c781fe-1f92-4abb-8708-94de0dcdb569" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1a26040c-1389-4924-967d-2c3d47e42beb" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
+
+[Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
+[FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
+
+![fire @nasa](https://rashardgds.github.io/assets/img/Overview_HD.png) @usgs
+
+@blackgirlscode @cityoflosangeles i went to church here, and a #WhiteCollar took my photo for me @nasa-jpl @Nasa @podaac
+
+<img  alt="image" src="https://github.com/user-attachments/assets/259fdd41-288d-4b63-82cd-abf33630e8fd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e16017b0-56d0-4044-b82b-52056223dd30" />
+
+[https://www.saint-augustine.org/](https://www.saint-augustine.org/) [@StAugustinebttheSea @youtube @nasa-pds](https://www.youtube.com/c/staugustinebythesea?themeRefresh=1) [Videos in @meta post in this archive](https://archive.org/download/nasa-worldview-2025-aug-13-to-2025-aug-25)
+
+
+[Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
+
+![OPUS](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png)
+
+OPUS ID:
+co-uvis-fuv1999_230_09_27
+Instrument Name:
+Cassini UVIS
+Planet:
+Other
+Intended Target Name(s):
+Earth
+Observation Start Time (YMDhms):
+1999-08-18T09:27:20.064
+Observation Duration (secs):
+43200
+
+![OPUS EARTH](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_03_27_full.png)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6bb6ded3-7cf2-43d8-b950-2d2b66f8fea0" />
 
 [Anthony J. Misetich](https://www.mcnerneysmortuary.com/obituaries/Anthony-Jack-Misetich?obId=46777654)
