@@ -7,6 +7,15 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+Regular City Council - 1/13/26 [link](https://youtu.be/MNNPKGztZSQ)
+<img   alt="image" src="https://github.com/user-attachments/assets/6bb6ded3-7cf2-43d8-b950-2d2b66f8fea0" />
+
+[Anthony J. Misetich](https://www.mcnerneysmortuary.com/obituaries/Anthony-Jack-Misetich?obId=46777654)
+[Rev Dr William S Epps](http://www.secondbaptistchurchla.org/pastor.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/94120ff6-d72a-40e6-a1ed-b2afd5617314" />
+
 @nasa-jpl @ersi i like it [LongBeach](https://arcg.is/Ty4i91)
 ![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
 
