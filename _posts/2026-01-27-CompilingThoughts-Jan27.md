@@ -7,6 +7,13 @@ published: true
 image: luckyGirl.png
 ---
 
+[Channel Islands National Park ](https://www.nps.gov/chis/planyourvisit/index.htm)
+@SWOT-community @la-county-isd @cityoflosangeles @stateofcalifornia 
+@newshour @blackgirlscode @nationalparkservice @nasa-jpl [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [LindseyHoravath](https://lindseyhorvath.lacounty.gov/) [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [HildaSolis](https://www.hildasolis.com/)
+
+<iframe title="Video Embed" src="https://www.nps.gov/media/video/embed.htm?id=FFFC1B18-F686-F8E0-CAAF5A93BAB98E12" width="480" height="306" frameborder="0" scrolling="auto" allowfullscreen></iframe>
+
+
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
